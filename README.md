@@ -23,7 +23,7 @@ Each section links to a dedicated repository that demonstrates a core skill area
   Exploring GEO datasets, RNA-seq, microarrays, and genetic variation data.
 
 - [**Scientific Communication**](https://github.com/splane00/scientific-communication)  
-  Research summaries, critiques, and polished class projects (e.g., Gene Project, Liar Liar).
+  Research summaries, critiques, and polished projects.
 
 - [**R/Python for Bioinformatics**](https://github.com/splane00/r-python-bioinformatics)  
   Scripts, notebooks, and utilities for sequence, expression, and visualization tasks.
