@@ -5,7 +5,7 @@ Each section links to a dedicated repository that demonstrates a core skill area
 
 ---
 
-##Core Skills
+## Core Skills
 
 - [**Database Navigation**](https://github.com/splane00/database-navigation)  
   Working with NCBI Gene, Ensembl, UCSC Genome Browser, and PubMed searches.
@@ -30,13 +30,13 @@ Each section links to a dedicated repository that demonstrates a core skill area
 
 ---
 
-## 📌 About
+## About
 This portfolio is a work in progress and will be updated throughout my M.S. in Bioinformatics.  
 It is designed to demonstrate **practical skills, reproducible workflows, and clear scientific communication** for research and industry roles in **genomics, epigenetics, and precision medicine**.
 
 ---
 
-## 📬 Contact
+## Contact
 - GitHub: splane00 (https://github.com/splane00)  
 - LinkedIn: https://www.linkedin.com/in/samantha-lane-917771155/
 - Email: slane21@jh.edu
