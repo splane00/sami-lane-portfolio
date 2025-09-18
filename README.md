@@ -27,11 +27,16 @@ This portfolio highlights projects and skills from my graduate coursework. Each 
     Produced a clean dataset suitable for downstream analysis and reporting.
 
 - **Coding Projects**
-  - [Data Structures: Sorting Algorithm Performance Analysis](https://github.com/splane00/data-struc-4)
-  - [Data Structures: Huffman Encoding Tree project](https://github.com/splane00/data-struc-3)
-  - [Data Structures: Recursion project, prefix to postfix conversion](https://github.com/splane00/data-struc-1)
-  - [Data Structures: Iteration project, prefix to postfix conversion](https://github.com/splane00/data-struc-2)
+  - [Data Structures: Sorting Algorithm Performance Analysis](https://github.com/splane00/data-struc-4)  
+    Evaluated Quicksort variants and Natural Merge Sort on datasets up to 10,000 elements, benchmarking comparisons and exchanges.
+  - [Data Structures: Huffman Encoding Tree project](https://github.com/splane00/data-struc-3)  
+    Implemented a tree-based text compression algorithm in Python, enabling efficient encoding and decoding of input files.
+  - [Data Structures: Recursion project](https://github.com/splane00/data-struc-1)
+    Developed recursive solutions in Python (factorial, Fibonacci, and tree traversal) to strengthen algorithmic problem-solving.
+  - [Data Structures: Prefix to postfix conversion](https://github.com/splane00/data-struc-2)
+    Built a stack-based program to convert mathematical expressions, demonstrating algorithm design and error checking.
   - Dance Recital Scheduler
+    Created a scheduling tool to reduce family conflicts and optimize seating for 450+ attendees per show.
 
 - [**Undergraduate Projects**](https://github.com/splane00/undergrad)  
   - [Literature Review: “Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare”](https://github.com/splane00/undergrad/blob/main/Pharmacogenomics%20final%20draft.pdf)  
