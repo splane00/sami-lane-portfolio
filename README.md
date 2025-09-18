@@ -35,7 +35,7 @@ This portfolio highlights projects and skills from my graduate coursework. Each 
     Developed recursive solutions in Python (factorial, Fibonacci, and tree traversal) to strengthen algorithmic problem-solving.
   - [Data Structures: Prefix to postfix conversion](https://github.com/splane00/data-struc-2)
     Built a stack-based program to convert mathematical expressions, demonstrating algorithm design and error checking.
-  - Dance Recital Scheduler
+  - Dance Recital Scheduler - coming soon!
     Created a scheduling tool to reduce family conflicts and optimize seating for 450+ attendees per show.
 
 - [**Undergraduate Projects**](https://github.com/splane00/undergrad)  
