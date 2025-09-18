@@ -27,6 +27,7 @@ This portfolio highlights projects and skills from my graduate coursework. Each 
     Produced a clean dataset suitable for downstream analysis and reporting.
 
 - **Coding Projects**
+  - [Data Structures: Sorting Algorithm Performance Analysis](https://github.com/splane00/data-struc-4)
   - [Data Structures: Huffman Encoding Tree project](https://github.com/splane00/data-struc-3)
   - [Data Structures: Recursion project, prefix to postfix conversion](https://github.com/splane00/data-struc-1)
   - [Data Structures: Iteration project, prefix to postfix conversion](https://github.com/splane00/data-struc-2)
