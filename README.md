@@ -10,12 +10,10 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
 - [**Database Navigation**](https://github.com/splane00/database-navigation)  
   Working with NCBI Gene, Ensembl, UCSC Genome Browser, and PubMed searches.
 
-  - **Bioinformatics Analysis of BTN1A1 Gene** \n
-    Conducted database-driven analysis of the BTN1A1 gene using Entrez, Ensembl, NCBI, BLAST, and ENCODE. \n
+  - **Bioinformatics Analysis of BTN1A1 Gene**
+    Conducted database-driven analysis of the BTN1A1 gene using Entrez, Ensembl, NCBI, BLAST, and ENCODE.
     Identified splice variants, SNPs, and orthologs across multiple species.
-    
     Compared protein domains and regulatory regions to assess potential impacts on gene expression and function.
-    
     Produced a structured report with database screenshots, sequence alignments, and visualizations.
 
 - [**Sequence Alignment**](https://github.com/splane00/sequence-alignment)  
@@ -29,19 +27,13 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
 
 - [**Data Analysis**](https://github.com/splane00/data-analysis)  
   - **Exploratory Data Analysis with Python and Pandas**
-    
     Performed data wrangling, cleaning, and transformation on tabular datasets.
-    
     Applied EDA techniques to uncover trends and generate summary statistics.
-    
     Built data visualizations in Seaborn and Matplotlib, turning raw data into clear insights.
 
   - **Data Cleaning in Excel**
-    
     Standardized and organized a messy dataset using Excel formulas and automation techniques.
-    
     Eliminated duplicates, corrected formatting errors, and validated entries.
-    
     Produced a clean dataset suitable for downstream analysis and reporting.
 
 - [**Scientific Communication**](https://github.com/splane00/scientific-communication)  
