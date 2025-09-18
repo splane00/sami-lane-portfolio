@@ -1,8 +1,7 @@
 # Bioinformatics Portfolio
 **Samantha Lane**, Graduate student - M.S. in Bioinformatics at Johns Hopkins University
 
-Welcome! This portfolio highlights projects and skills from my graduate coursework at Johns Hopkins University.  
-Each section links to a dedicated repository that demonstrates a core skill area. It is designed to demonstrate practical skills, reproducible workflows, and clear scientific communication for research and industry roles in genomics, epigenetics, and precision medicine.
+Welcome! This portfolio highlights projects and skills from my graduate coursework. Each section links to a dedicated repository that demonstrates a core skill area. It is designed to demonstrate practical skills, reproducible workflows, and clear scientific communication for research and industry roles in genomics, epigenetics, and precision medicine.
 
 ---
 
