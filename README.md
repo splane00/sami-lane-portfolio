@@ -26,10 +26,10 @@ This portfolio highlights projects and skills from my graduate coursework. Each 
     Eliminated duplicates, corrected formatting errors, and validated entries.  
     Produced a clean dataset suitable for downstream analysis and reporting.
 
-- [**Coding Projects**](https://github.com/splane00/coding)
+- **Coding Projects**
   - Data Structures: Huffman Encoding Tree project
   - Data Structures: Recursion project, prefix to postfix conversion
-  - Data Structures: Iteration project, prefix to postfix conversion
+  - [Data Structures: Iteration project, prefix to postfix conversion](https://github.com/splane00/data-struc-1)
   - Dance Recital Scheduler
 
 - [**Undergraduate Projects**](https://github.com/splane00/undergrad)  
