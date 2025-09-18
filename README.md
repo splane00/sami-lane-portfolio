@@ -10,7 +10,7 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
 - [**Bioinformatics Analyses**](https://github.com/splane00/database-navigation)  
   Working with NCBI Gene, Ensembl, UCSC Genome Browser, PubMed searches, BLAST, pairwise alignments, and multiple sequence alignments.
 
-  - [**Analysis of BTN1A1 Gene**](https://github.com/splane00/database-navigation/blob/main/BTN1A1-analysis) (ongoing)  
+  - [Analysis of BTN1A1 Gene](https://github.com/splane00/database-navigation/blob/main/BTN1A1-analysis) (ongoing)  
     Conducted database-driven analysis of the BTN1A1 gene using Entrez, Ensembl, NCBI, BLAST, and ENCODE.  
     Identified splice variants, SNPs, and orthologs across multiple species.  
     Compared protein domains and regulatory regions to assess potential impacts on gene expression and function.  
@@ -34,7 +34,7 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
     Produced a clean dataset suitable for downstream analysis and reporting.  
 
 - [**Undergraduate Projects**](https://github.com/splane00/undergrad)  
-  - Literature Review: “Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare”  
+  - [Literature Review: “Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare”](https://github.com/splane00/undergrad/blob/main/Pharmacogenomics%20final%20draft.pdf)  
   - Literature Review: “The Ethical Implications of Clinical Responses to Patients Presenting with Suicidal Ideation”  
   - Organic Chemistry II Research Lab: "Determination of the Results of Halogenation of Vanillin Using Bleach and NaBr with EtOAc as the Solvent”  
   - Organic Chemistry II Research Lab: “Optimization of Alcohol Reagent in Williamson Ether Synthesis”  
