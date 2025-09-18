@@ -10,10 +10,8 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
 - [**Database Navigation**](https://github.com/splane00/database-navigation)  
   Working with NCBI Gene, Ensembl, UCSC Genome Browser, and PubMed searches.
 
-  - **Bioinformatics Analysis of BTN1A1 Gene** 
-
-    Conducted database-driven analysis of the BTN1A1 gene using Entrez, Ensembl, NCBI, BLAST, and ENCODE.
-    
+  - **Bioinformatics Analysis of BTN1A1 Gene** \n
+    Conducted database-driven analysis of the BTN1A1 gene using Entrez, Ensembl, NCBI, BLAST, and ENCODE. \n
     Identified splice variants, SNPs, and orthologs across multiple species.
     
     Compared protein domains and regulatory regions to assess potential impacts on gene expression and function.
