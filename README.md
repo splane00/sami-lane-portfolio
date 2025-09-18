@@ -6,7 +6,7 @@ This portfolio highlights projects and skills from my graduate coursework. Each 
 
 ## Core Skills
 
-- [**Bioinformatics Analyses**](https://github.com/splane00/database-navigation)  
+- [**Bioinformatics projects**](https://github.com/splane00/bioinfo-projects)  
   Working with NCBI Gene, Ensembl, UCSC Genome Browser, PubMed searches, BLAST, pairwise alignments, and multiple sequence alignments.
 
   - [Analysis of BTN1A1 Gene](https://github.com/splane00/database-navigation/blob/main/BTN1A1-analysis) (ongoing)  
@@ -15,13 +15,7 @@ This portfolio highlights projects and skills from my graduate coursework. Each 
     Compared protein domains and regulatory regions to assess potential impacts on gene expression and function.  
     Produced a structured report with database screenshots, sequence alignments, and visualizations.
 
-- [**Phylogenetics**](https://github.com/splane00/phylogenetics)  
-  Building and interpreting phylogenetic trees using MEGA, PhyML, and Ensembl Trees.
-
-- [**Protein & Gene Analysis**](https://github.com/splane00/protein-gene-analysis)  
-  Protein motifs, domains, and structure prediction with UniProt and Pfam.
-
-- [**Data Analysis**](https://github.com/splane00/data-analysis)  
+- [**Data Analysis & Visualization**](https://github.com/splane00/data-analysis)  
   - **Exploratory Data Analysis with Python and Pandas** - Coursera Project Network  
     Performed data wrangling, cleaning, and transformation on tabular datasets.  
     Applied EDA techniques to uncover trends and generate summary statistics.  
@@ -30,17 +24,19 @@ This portfolio highlights projects and skills from my graduate coursework. Each 
   - **Data Cleaning in Excel** - Coursera Project Network  
     Standardized and organized a messy dataset using Excel formulas and automation techniques.  
     Eliminated duplicates, corrected formatting errors, and validated entries.  
-    Produced a clean dataset suitable for downstream analysis and reporting.  
+    Produced a clean dataset suitable for downstream analysis and reporting.
+
+- [**Coding Projects**](https://github.com/splane00/coding)
+  - Data Structures: Huffman Encoding Tree project
+  - Data Structures: Recursion project, prefix to postfix conversion
+  - Data Structures: Iteration project, prefix to postfix conversion
+  - Dance Recital Scheduler
 
 - [**Undergraduate Projects**](https://github.com/splane00/undergrad)  
   - [Literature Review: “Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare”](https://github.com/splane00/undergrad/blob/main/Pharmacogenomics%20final%20draft.pdf)  
   - [Literature Review: “The Ethical Implications of Clinical Responses to Patients Presenting with Suicidal Ideation”](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)  
   - [Organic Chemistry II Research Lab: "Determination of the Results of Halogenation of Vanillin Using Bleach and NaBr with EtOAc as the Solvent”](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)  
   - [Organic Chemistry II Research Lab: “Optimization of Alcohol Reagent in Williamson Ether Synthesis”](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)  
-
-- [**Other Programming Projects**](https://github.com/splane00/r-python)  
-  - Dance Recital Scheduler
-
 
 ---
 
