@@ -7,17 +7,14 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
 
 ## Core Skills
 
-- [**Database Navigation**](https://github.com/splane00/database-navigation)  
-  Working with NCBI Gene, Ensembl, UCSC Genome Browser, and PubMed searches.
+- [**Bioinformatics Analyses**](https://github.com/splane00/database-navigation)  
+  Working with NCBI Gene, Ensembl, UCSC Genome Browser, PubMed searches, BLAST, pairwise alignments, and multiple sequence alignments.
 
-  - **Bioinformatics Analysis of BTN1A1 Gene** - Introduction to Bioinformatics coursework (ongoing)  
+  - **Analysis of BTN1A1 Gene** (ongoing)  
     Conducted database-driven analysis of the BTN1A1 gene using Entrez, Ensembl, NCBI, BLAST, and ENCODE.  
     Identified splice variants, SNPs, and orthologs across multiple species.  
     Compared protein domains and regulatory regions to assess potential impacts on gene expression and function.  
     Produced a structured report with database screenshots, sequence alignments, and visualizations.
-
-- [**Sequence Alignment**](https://github.com/splane00/sequence-alignment)  
-  BLAST, pairwise alignments, and multiple sequence alignments (Clustal, MUSCLE).
 
 - [**Phylogenetics**](https://github.com/splane00/phylogenetics)  
   Building and interpreting phylogenetic trees using MEGA, PhyML, and Ensembl Trees.
@@ -36,11 +33,12 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
     Eliminated duplicates, corrected formatting errors, and validated entries.  
     Produced a clean dataset suitable for downstream analysis and reporting.  
 
-- [**Scientific Communication**](https://github.com/splane00/scientific-communication)  
-  Research summaries, critiques, and polished projects.
+- [**Undergraduate Literature Reviews**](https://github.com/splane00/scientific-communication)  
+  - “Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare”
+  - “The Ethical Implications of Clinical Responses to Patients Presenting with Suicidal Ideation”
 
-- [**R/Python for Bioinformatics**](https://github.com/splane00/r-python-bioinformatics)  
-  Scripts, notebooks, and utilities for sequence, expression, and visualization tasks.
+- [**Other Programming Projects**](https://github.com/splane00/r-python)  
+  - Dance Recital Scheduler
 
 
 ---
