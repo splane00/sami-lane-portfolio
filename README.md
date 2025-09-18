@@ -33,7 +33,7 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
     Eliminated duplicates, corrected formatting errors, and validated entries.  
     Produced a clean dataset suitable for downstream analysis and reporting.  
 
-- [**Undergraduate Projects**](https://github.com/splane00/scientific-communication)  
+- [**Undergraduate Projects**](https://github.com/splane00/undergrad)  
   - Literature Review: “Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare”  
   - Literature Review: “The Ethical Implications of Clinical Responses to Patients Presenting with Suicidal Ideation”  
   - Organic Chemistry II Research Lab: "Determination of the Results of Halogenation of Vanillin Using Bleach and NaBr with EtOAc as the Solvent”  
