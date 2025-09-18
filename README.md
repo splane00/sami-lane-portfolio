@@ -35,9 +35,9 @@ Welcome! This portfolio highlights projects and skills from my graduate coursewo
 
 - [**Undergraduate Projects**](https://github.com/splane00/undergrad)  
   - [Literature Review: “Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare”](https://github.com/splane00/undergrad/blob/main/Pharmacogenomics%20final%20draft.pdf)  
-  - Literature Review: “The Ethical Implications of Clinical Responses to Patients Presenting with Suicidal Ideation”  
-  - Organic Chemistry II Research Lab: "Determination of the Results of Halogenation of Vanillin Using Bleach and NaBr with EtOAc as the Solvent”  
-  - Organic Chemistry II Research Lab: “Optimization of Alcohol Reagent in Williamson Ether Synthesis”  
+  - [Literature Review: “The Ethical Implications of Clinical Responses to Patients Presenting with Suicidal Ideation”]  
+  - [Organic Chemistry II Research Lab: "Determination of the Results of Halogenation of Vanillin Using Bleach and NaBr with EtOAc as the Solvent”](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)  
+  - [Organic Chemistry II Research Lab: “Optimization of Alcohol Reagent in Williamson Ether Synthesis”](  
 
 - [**Other Programming Projects**](https://github.com/splane00/r-python)  
   - Dance Recital Scheduler
