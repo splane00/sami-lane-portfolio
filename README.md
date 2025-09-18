@@ -1,7 +1,7 @@
 # Bioinformatics Portfolio
 
 Welcome! This portfolio highlights projects and skills from my graduate coursework at Johns Hopkins University.  
-Each section links to a dedicated repository that demonstrates a core skill area.  
+Each section links to a dedicated repository that demonstrates a core skill area. It is designed to demonstrate practical skills, reproducible workflows, and clear scientific communication for research and industry roles in genomics, epigenetics, and precision medicine.
 
 ---
 
@@ -42,11 +42,6 @@ Each section links to a dedicated repository that demonstrates a core skill area
 - [**R/Python for Bioinformatics**](https://github.com/splane00/r-python-bioinformatics)  
   Scripts, notebooks, and utilities for sequence, expression, and visualization tasks.
 
----
-
-## About
-This portfolio is a work in progress and will be updated throughout my M.S. in Bioinformatics.  
-It is designed to demonstrate **practical skills, reproducible workflows, and clear scientific communication** for research and industry roles in **genomics, epigenetics, and precision medicine**.
 
 ---
 
