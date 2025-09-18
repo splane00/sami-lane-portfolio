@@ -1,6 +1,6 @@
 # Bioinformatics Portfolio
 
-Welcome! This portfolio highlights projects and skills from my graduate coursework in **molecular biology, epigenetics, and bioinformatics** at Johns Hopkins University.  
+Welcome! This portfolio highlights projects and skills from my graduate coursework at Johns Hopkins University.  
 Each section links to a dedicated repository that demonstrates a core skill area.  
 
 ---
