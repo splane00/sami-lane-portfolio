@@ -6,7 +6,7 @@ This portfolio highlights projects and skills from my graduate coursework. Each 
 
 ## Core Skills
 
-- [**Bioinformatics projects**](https://github.com/splane00/bioinfo-projects)  
+- [**Bioinformatics projects**](https://github.com/splane00/bioinfo_projects)  
   Working with NCBI Gene, Ensembl, UCSC Genome Browser, PubMed searches, BLAST, pairwise alignments, and multiple sequence alignments.
 
   - [Analysis of BTN1A1 Gene](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) (ongoing)  
