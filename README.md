@@ -1,4 +1,4 @@
-# Bioinformatics Portfolio
+# Portfolio
 Hi, I’m Samantha (Sami) Lane — Bioinformatics M.S. student at Johns Hopkins (2025–2027). I specialize in genomics, data analysis, and computational biology.
 This portfolio highlights projects and skills from my graduate coursework. Each section links to a dedicated repository that demonstrates a core skill area. It is designed to demonstrate practical skills, reproducible workflows, and clear scientific communication for research and industry roles in genomics, epigenetics, and precision medicine.
 
