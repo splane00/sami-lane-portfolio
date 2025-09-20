@@ -3,8 +3,11 @@ Hi, I’m Samantha (Sami) Lane — Bioinformatics M.S. student at Johns Hopkins 
 This portfolio highlights projects and skills from my graduate coursework. Each section links to a dedicated repository that demonstrates a core skill area. It is designed to demonstrate practical skills, reproducible workflows, and clear scientific communication for research and industry roles in genomics, epigenetics, and precision medicine.
 
 ---
+## Skills
+Technical: Python, SQL, Pandas, NumPy, Git/GitHub, Tableau, Excel, Jupyter, Seaborn, Matplotlib, BLAST, Ensembl, NCBI databases  
+Professional: Project Management, Grant Writing, Teaching, Scientific Writing, Customer Service
 
-## Core Skills
+## Projects
 
 - [**Bioinformatics projects**](https://github.com/splane00/bioinfo_projects)  
   Working with NCBI Gene, Ensembl, UCSC Genome Browser, PubMed searches, BLAST, pairwise alignments, and multiple sequence alignments.
