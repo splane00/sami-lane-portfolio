@@ -9,7 +9,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 ### Bioinformatics
 - [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) - in progress
   Explored gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
-  *Skills:* Genomic databases, sequence analysis, literature integration.  
+  *Skills:* Genomic databases, sequence analysis, literature integration.
 
 ### Software Development  
 - [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3) - Data Structures coursework  
@@ -28,6 +28,12 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
   Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
   *Skills:* Python, Javascript (React, Next.js), Firebase, HTML, CSS, database design.
 
+### Data Analysis and Visualization
+- **Exploratory Data Analysis With Python and Pandas** - Coursera Project Network - coming soon!  
+  *Skills:* Python, Pandas, Numpy, Seaborn, Matploptlib, data wrangling, data cleaning, tabular datasets, statistical analysis, Exploratory Data Analysis (EDA)  
+- **Data Cleaning in Excel: Techniques to Clean Messy Data** - Coursera Project Network - coming soon!
+  *Skills:* Microsoft Excel, Excel formulas, automation techniques, data cleaning
+
 ### Undergraduate Projects
 - **Literature Review:** ["Ethical Implications of Clinician Responses to Patients Presenting with Suicidal Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
 - **Literature Review:** "Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare" - coming soon!
@@ -40,7 +46,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 - **Languages:** Python, SQL, Java, JavaScript (React, Next.js)  
 - **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Biopython  
 - **Bioinformatics Tools:** BLAST, Ensembl, UCSC Genome Browser, NCBI, ENCODE  
-- **Other:** Git/GitHub, Firebase, Data Visualization, Cloud Deployment  
+- **Other:** Git/GitHub, Firebase, Data Visualization, Cloud Deployment
 
 ---
 
