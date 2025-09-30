@@ -4,9 +4,9 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🔬 Bioinformatics
+### Bioinformatics
 - **BTN1A1 Gene Analysis**  
   Explored gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
   *Skills:* Genomic databases, sequence analysis, literature integration.  
@@ -19,14 +19,16 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
   Python-based workflow for RNA-seq data preprocessing and analysis.  
   *Skills:* Biopython, Pandas, pipeline automation.  
 
-### 💻 Software Development  
-- **Dance Studio App**  
+### Software Development  
+- [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3) - Data Structures coursework  
+  Java implementation of a Huffman tree for text compression and decompression. The program builds an encoding tree from character frequencies, generates binary codes, and encodes/decodes files while reporting compression results.  
+  *Skills:* Java, binary trees, greedy algorithms, file I/O, modular design.
+- [**Quicksort vs. Natural Merge Sort**](https://github.com/splane00/data-struc-4) - Data Structures coursework
+  Java project comparing the performance of Quicksort and Natural Merge Sort on different input datasets. The program measures runtime and analyzes efficiency based on input size and order.  
+  *Skills:* Java, sorting algorithms, algorithm analysis, runtime measurement, data structures.
+- **Dance Studio App** - coming soon!
   Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
   *Skills:* React, Next.js, Firebase, database design.  
-- [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3)  
-  Java implementation of a Huffman tree for text compression and decompression. The program builds an encoding tree from character frequencies, generates binary codes, and encodes/decodes files while reporting compression results.  
-  Skills: Java, binary trees, greedy algorithms, file I/O, modular design.
-
 
 ---
 
@@ -44,9 +46,9 @@ I am building expertise in **genomics, precision medicine, and AI in healthcare*
 ---
 
 ## 📫 Contact
-- GitHub: [github.com/splane00](https://github.com/splane00)  
-- LinkedIn: [linkedin.com/in/sami-lane](https://www.linkedin.com/in/sami-lane)  
-- Email: *your email here*  
+- [GitHub](https://github.com/splane00)  
+- [LinkedIn](https://www.linkedin.com/in/samantha-lane-917771155/)
+- Email: slane21@jh.edu
 
 ---
 
