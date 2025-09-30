@@ -7,17 +7,9 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 ## Projects
 
 ### Bioinformatics
-- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md)
+- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) - in progress
   Explored gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
   *Skills:* Genomic databases, sequence analysis, literature integration.  
-
-- **Diabetes Risk Prediction**  
-  Machine learning model to predict diabetes risk from clinical data.  
-  *Skills:* Pandas, Scikit-learn, logistic regression, data visualization.  
-
-- **Transcriptomics Pipeline (in progress)**  
-  Python-based workflow for RNA-seq data preprocessing and analysis.  
-  *Skills:* Biopython, Pandas, pipeline automation.  
 
 ### Software Development  
 - [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3) - Data Structures coursework  
