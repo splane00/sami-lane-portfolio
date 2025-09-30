@@ -44,15 +44,15 @@ Professional: Project Management, Grant Writing, Teaching, Scientific Writing, C
     Automated variant annotation with ClinVar and gnomAD integrations to highlight clinically significant findings for translational teams.  
     Documented the end-to-end workflow, enabling collaborators to reproduce analyses and extend the dashboard.  
 
-  - **Exploratory Data Analysis with Python and Pandas** - Coursera Project Network
-    Performed data wrangling, cleaning, and transformation on tabular datasets.
-    Applied EDA techniques to uncover trends and generate summary statistics.
-    Built data visualizations in Seaborn and Matplotlib, turning raw data into clear insights.
+  - **Exploratory Data Analysis with Python and Pandas** - Coursera Project Network  
+    Performed data wrangling, cleaning, and transformation on tabular datasets.  
+    Applied EDA techniques to uncover trends and generate summary statistics.  
+    Built data visualizations in Seaborn and Matplotlib, turning raw data into clear insights.  
 
-  - **Data Cleaning in Excel** - Coursera Project Network
-    Standardized and organized a messy dataset using Excel formulas and automation techniques.
-    Eliminated duplicates, corrected formatting errors, and validated entries.
-    Produced a clean dataset suitable for downstream analysis and reporting.
+  - **Data Cleaning in Excel** - Coursera Project Network  
+    Standardized and organized a messy dataset using Excel formulas and automation techniques.  
+    Eliminated duplicates, corrected formatting errors, and validated entries.  
+    Produced a clean dataset suitable for downstream analysis and reporting.  
 
 ---
 
