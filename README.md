@@ -39,10 +39,10 @@ Professional: Project Management, Grant Writing, Teaching, Scientific Writing, C
   - [Organic Chemistry II Research Lab: “Optimization of Alcohol Reagent in Williamson Ether Synthesis”](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)  
 
 - **Data Analysis & Visualization**
-  - [Genomics Variant Explorer Dashboard](projects/genomics-dashboard.md)
-    Developed an interactive Plotly Dash application for filtering and prioritizing genomic variants using harmonized VCF and phenotype data.
-    Automated variant annotation with ClinVar and gnomAD integrations to highlight clinically significant findings for translational teams.
-    Documented the end-to-end workflow, enabling collaborators to reproduce analyses and extend the dashboard.
+  - [**Genomics Variant Explorer Dashboard**](projects/genomics-dashboard.md)
+    Developed an interactive Plotly Dash application for filtering and prioritizing genomic variants using harmonized VCF and phenotype data.  
+    Automated variant annotation with ClinVar and gnomAD integrations to highlight clinically significant findings for translational teams.  
+    Documented the end-to-end workflow, enabling collaborators to reproduce analyses and extend the dashboard.  
 
   - **Exploratory Data Analysis with Python and Pandas** - Coursera Project Network
     Performed data wrangling, cleaning, and transformation on tabular datasets.
