@@ -1,4 +1,4 @@
-# Sami Lane – Bioinformatics Portfolio
+# Samantha (Sami) Lane – Bioinformatics Portfolio
 
 Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Hopkins University (AAP)** with interests in **genomics, women’s health, and computational biology**. This repository highlights selected projects that showcase my skills in **Python, data analysis, bioinformatics pipelines, and software development**.  
 
@@ -19,10 +19,14 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
   Python-based workflow for RNA-seq data preprocessing and analysis.  
   *Skills:* Biopython, Pandas, pipeline automation.  
 
-### 💻 Software Development
+### 💻 Software Development  
 - **Dance Studio App**  
-  Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.  
+  Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
   *Skills:* React, Next.js, Firebase, database design.  
+- [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3)  
+  Java implementation of a Huffman tree for text compression and decompression. The program builds an encoding tree from character frequencies, generates binary codes, and encodes/decodes files while reporting compression results.  
+  Skills: Java, binary trees, greedy algorithms, file I/O, modular design.
+
 
 ---
 
