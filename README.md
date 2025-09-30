@@ -18,10 +18,10 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 - [**Quicksort vs. Natural Merge Sort**](https://github.com/splane00/data-struc-4) - Data Structures coursework  
   Python project comparing the performance of Quicksort and Natural Merge Sort on different input datasets. The program measures runtime and analyzes efficiency based on input size and order.  
   *Skills:* Python, sorting algorithms, algorithm analysis, runtime measurement, data structures.
-- [**Prefix to Postfix Converter**](https://github.com/splane00/data-struc-1)  
+- [**Prefix to Postfix Converter**](https://github.com/splane00/data-struc-1) - Data Structures coursework  
   Python program that converts prefix expressions to postfix form using a stack-based approach. Demonstrates parsing, validation, and expression conversion with proper error handling.  
   *Skills:* Python, stacks, expression parsing, algorithm design, modular programming.  
-- [**Stack Implementation**](https://github.com/splane00/data-struc-2)  
+- [**Stack Implementation**](https://github.com/splane00/data-struc-2) - Data Structures coursework    
   Python program implementing a stack data structure with operations for push, pop, peek, and error handling. Includes file input/output to test stack functionality with expression evaluation.  
 *Skills:* Python, stacks, data structures, file I/O, modular programming.  
 - **Dance Studio App** - coming soon!  
