@@ -26,13 +26,13 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 *Skills:* Python, stacks, data structures, file I/O, modular programming.  
 - **Dance Studio App** - coming soon!  
   Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
-  *Skills:* Python, Javascript (React, Next.js), Firebase, HTML, CSS, database design.
+  *Skills:* Python, Javascript (React, Next.js), Firebase, HTML, CSS, database design.  
 
-### Data Analysis and Visualization
+### Data Analysis and Visualization  
 - **Exploratory Data Analysis With Python and Pandas** - Coursera Project Network - coming soon!  
   *Skills:* Python, Pandas, Numpy, Seaborn, Matploptlib, data wrangling, data cleaning, tabular datasets, statistical analysis, Exploratory Data Analysis (EDA)  
-- **Data Cleaning in Excel: Techniques to Clean Messy Data** - Coursera Project Network - coming soon!
-  *Skills:* Microsoft Excel, Excel formulas, automation techniques, data cleaning
+- **Data Cleaning in Excel: Techniques to Clean Messy Data** - Coursera Project Network - coming soon!  
+  *Skills:* Microsoft Excel, Excel formulas, automation techniques, data cleaning  
 
 ### Undergraduate Projects
 - **Literature Review:** ["Ethical Implications of Clinician Responses to Patients Presenting with Suicidal Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
