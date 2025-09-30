@@ -29,9 +29,9 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 - [**Prefix to Postfix Converter**](https://github.com/splane00/data-struc-1)  
   Python program that converts prefix expressions to postfix form using a stack-based approach. Demonstrates parsing, validation, and expression conversion with proper error handling.  
   *Skills:* Python, stacks, expression parsing, algorithm design, modular programming.  
-- [**Stack Implementation**](https://github.com/splane00/data-struc-2)
-  Python program implementing a stack data structure with operations for push, pop, peek, and error handling. Includes file input/output to test stack functionality with expression evaluation.
-*Skills:* Python, stacks, data structures, file I/O, modular programming.
+- [**Stack Implementation**](https://github.com/splane00/data-struc-2)  
+  Python program implementing a stack data structure with operations for push, pop, peek, and error handling. Includes file input/output to test stack functionality with expression evaluation.  
+*Skills:* Python, stacks, data structures, file I/O, modular programming.  
 - **Dance Studio App** - coming soon!  
   Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
   *Skills:* Javascript (React, Next.js), Firebase, database design.
