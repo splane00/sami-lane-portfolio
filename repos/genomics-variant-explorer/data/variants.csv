@@ -1,0 +1,11 @@
+sample_id,chromosome,position,gene,consequence,clin_sig,impact_score,phenotype
+S1,1,123456,BRCA1,missense_variant,Pathogenic,0.95,Hereditary breast and ovarian cancer
+S2,1,223890,BRCA1,intron_variant,Uncertain significance,0.45,Hereditary breast and ovarian cancer
+S3,13,32900000,BRCA2,frameshift_variant,Pathogenic,0.98,Hereditary breast and ovarian cancer
+S4,17,41276045,TP53,stop_gained,Pathogenic,0.99,Lynch-like syndrome
+S5,17,7579472,TP53,missense_variant,Likely pathogenic,0.87,Lynch-like syndrome
+S6,7,117199644,CFTR,missense_variant,Pathogenic,0.92,Cystic fibrosis
+S7,7,117250123,CFTR,synonymous_variant,Benign,0.12,Cystic fibrosis
+S8,19,44908684,APOE,missense_variant,Risk factor,0.68,Alzheimer's disease
+S9,2,47637321,MLH1,splice_acceptor_variant,Pathogenic,0.96,Lynch syndrome
+S10,3,37034567,PIK3CA,missense_variant,Likely pathogenic,0.83,Breast cancer

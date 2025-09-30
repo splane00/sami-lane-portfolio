@@ -38,15 +38,21 @@ Professional: Project Management, Grant Writing, Teaching, Scientific Writing, C
   - [Organic Chemistry II Research Lab: "Determination of the Results of Halogenation of Vanillin Using Bleach and NaBr with EtOAc as the Solvent”](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)  
   - [Organic Chemistry II Research Lab: “Optimization of Alcohol Reagent in Williamson Ether Synthesis”](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)  
 
-- **Data Analysis & Visualization** - coming soon!
-  - **Exploratory Data Analysis with Python and Pandas** - Coursera Project Network  
-    Performed data wrangling, cleaning, and transformation on tabular datasets.  
-    Applied EDA techniques to uncover trends and generate summary statistics.  
-    Built data visualizations in Seaborn and Matplotlib, turning raw data into clear insights.  
+- **Data Analysis & Visualization**
+  - [Genomics Variant Explorer Dashboard](projects/genomics-dashboard.md)
+    Promoted to a standalone repository at [`repos/genomics-variant-explorer/`](repos/genomics-variant-explorer/README.md) for easier sharing and deployment.
+    Built an interactive Plotly Dash prototype with gene, clinical significance, and phenotype filters backed by a harmonized sample dataset.
+    Visualized variant impact across the genome with Plotly scatter plots and sortable data tables for rapid prioritization.
+    Documented setup instructions and next steps so collaborators can reproduce, evaluate, and extend the dashboard.
 
-  - **Data Cleaning in Excel** - Coursera Project Network  
-    Standardized and organized a messy dataset using Excel formulas and automation techniques.  
-    Eliminated duplicates, corrected formatting errors, and validated entries.  
+  - **Exploratory Data Analysis with Python and Pandas** - Coursera Project Network
+    Performed data wrangling, cleaning, and transformation on tabular datasets.
+    Applied EDA techniques to uncover trends and generate summary statistics.
+    Built data visualizations in Seaborn and Matplotlib, turning raw data into clear insights.
+
+  - **Data Cleaning in Excel** - Coursera Project Network
+    Standardized and organized a messy dataset using Excel formulas and automation techniques.
+    Eliminated duplicates, corrected formatting errors, and validated entries.
     Produced a clean dataset suitable for downstream analysis and reporting.
 
 ---
