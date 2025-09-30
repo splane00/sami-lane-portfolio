@@ -7,7 +7,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 ## Projects
 
 ### Bioinformatics
-- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) - in progress
+- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) - in progress  
   Explored gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
   *Skills:* Genomic databases, sequence analysis, literature integration.
 
