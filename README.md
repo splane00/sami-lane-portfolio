@@ -32,7 +32,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 
 ---
 
-## 🛠️ Tools & Skills
+## Skills
 - **Languages:** Python, SQL, Java, JavaScript (React, Next.js)  
 - **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Biopython  
 - **Bioinformatics Tools:** BLAST, Ensembl, UCSC Genome Browser, NCBI, ENCODE  
@@ -40,16 +40,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 
 ---
 
-## 🎯 Goals
-I am building expertise in **genomics, precision medicine, and AI in healthcare**. My portfolio reflects both academic coursework and independent projects, with a focus on applying computational methods to biomedical problems.  
-
----
-
-## 📫 Contact
+## Contact me
 - [GitHub](https://github.com/splane00)  
 - [LinkedIn](https://www.linkedin.com/in/samantha-lane-917771155/)
 - Email: slane21@jh.edu
-
----
-
-⭐️ *Thanks for visiting! Check back for updates as I add new projects.*
