@@ -34,7 +34,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 *Skills:* Python, stacks, data structures, file I/O, modular programming.  
 - **Dance Studio App** - coming soon!  
   Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
-  *Skills:* Javascript (React, Next.js), Firebase, database design.
+  *Skills:* Python, Javascript (React, Next.js), Firebase, HTML, CSS, database design.
 
 ### Undergraduate Projects
 - **Literature Review:** ["Ethical Implications of Clinician Responses to Patients Presenting with Suicidal Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
