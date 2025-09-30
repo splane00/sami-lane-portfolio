@@ -7,7 +7,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 ## Projects
 
 ### Bioinformatics
-- **BTN1A1 Gene Analysis**  
+- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md)
   Explored gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
   *Skills:* Genomic databases, sequence analysis, literature integration.  
 
@@ -28,7 +28,13 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
   *Skills:* Java, sorting algorithms, algorithm analysis, runtime measurement, data structures.  
 - **Dance Studio App** - coming soon!  
   Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
-  *Skills:* React, Next.js, Firebase, database design.  
+  *Skills:* React, Next.js, Firebase, database design.
+
+### Undergraduate Projects
+- **Literature Review:** ["Ethical Implications of Clinician Responses to Patients Presenting with Suicidal Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
+- **Literature Review:** "Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare" - coming soon!
+- **Organic Chemistry Research:** [“Optimization of Alkylation of Ammonia and Amines Reaction to Selectively Form Ammonium Salts”](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)
+- **Organic Chemistry Research:** [“Optimization of Alcohol Reagent in Williamson Ether Synthesis”](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)
 
 ---
 
