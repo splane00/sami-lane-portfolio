@@ -19,6 +19,11 @@ Professional: Project Management, Grant Writing, Teaching, Scientific Writing, C
     Compared protein domains and regulatory regions to assess potential impacts on gene expression and function.  
     Produced a structured report with database screenshots, sequence alignments, and visualizations.
 
+  - [Genomics Variant Explorer Dashboard](projects/genomics-dashboard.md)  
+    Built an interactive Plotly Dash prototype with gene, clinical significance, and phenotype filters backed by a harmonized sample dataset.  
+    Visualized variant impact across the genome with Plotly scatter plots and sortable data tables for rapid prioritization.  
+    Documented setup instructions and next steps so collaborators can reproduce, evaluate, and extend the dashboard.  
+
 - **Coding Projects**
   - [Data Structures: Sorting Algorithm Performance Analysis](https://github.com/splane00/data-struc-4)  
     Evaluated Quicksort variants and Natural Merge Sort on datasets up to 10,000 elements, benchmarking comparisons and exchanges.
@@ -39,11 +44,6 @@ Professional: Project Management, Grant Writing, Teaching, Scientific Writing, C
   - [Organic Chemistry II Research Lab: “Optimization of Alcohol Reagent in Williamson Ether Synthesis”](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)  
 
 - **Data Analysis & Visualization**
-  - [Genomics Variant Explorer Dashboard](projects/genomics-dashboard.md)
-    Built an interactive Plotly Dash prototype with gene, clinical significance, and phenotype filters backed by a harmonized sample dataset.
-    Visualized variant impact across the genome with Plotly scatter plots and sortable data tables for rapid prioritization.
-    Documented setup instructions and next steps so collaborators can reproduce, evaluate, and extend the dashboard.
-
   - **Exploratory Data Analysis with Python and Pandas** - Coursera Project Network
     Performed data wrangling, cleaning, and transformation on tabular datasets.
     Applied EDA techniques to uncover trends and generate summary statistics.
