@@ -1,6 +1,6 @@
 # Samantha (Sami) Lane – Bioinformatics Portfolio
 
-Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Hopkins University (AAP)** with interests in **genomics, women’s health, and computational biology**. This repository highlights selected projects that showcase my skills in **Python, data analysis, bioinformatics pipelines, and software development**.  
+Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Hopkins University** with interests in **genomics, women’s health, and computational biology**. This repository highlights selected projects that showcase my skills in **Python, data analysis, bioinformatics pipelines, and software development**.  
 
 ---
 
