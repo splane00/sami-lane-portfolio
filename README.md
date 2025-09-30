@@ -26,7 +26,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 - [**Quicksort vs. Natural Merge Sort**](https://github.com/splane00/data-struc-4) - Data Structures coursework
   Java project comparing the performance of Quicksort and Natural Merge Sort on different input datasets. The program measures runtime and analyzes efficiency based on input size and order.  
   *Skills:* Java, sorting algorithms, algorithm analysis, runtime measurement, data structures.
-- **Dance Studio App** - coming soon!
+- **Dance Studio App** - coming soon!  
   Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
   *Skills:* React, Next.js, Firebase, database design.  
 
