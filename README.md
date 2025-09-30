@@ -38,8 +38,8 @@ Professional: Project Management, Grant Writing, Teaching, Scientific Writing, C
   - [Organic Chemistry II Research Lab: "Determination of the Results of Halogenation of Vanillin Using Bleach and NaBr with EtOAc as the Solvent”](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)  
   - [Organic Chemistry II Research Lab: “Optimization of Alcohol Reagent in Williamson Ether Synthesis”](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)  
 
-- **Data Analysis & Visualization**
-  - [**Genomics Variant Explorer Dashboard**](projects/genomics-dashboard.md)
+- **Data Analysis & Visualization**  
+  - [**Genomics Variant Explorer Dashboard**](projects/genomics-dashboard.md)  
     Developed an interactive Plotly Dash application for filtering and prioritizing genomic variants using harmonized VCF and phenotype data.  
     Automated variant annotation with ClinVar and gnomAD integrations to highlight clinically significant findings for translational teams.  
     Documented the end-to-end workflow, enabling collaborators to reproduce analyses and extend the dashboard.  
