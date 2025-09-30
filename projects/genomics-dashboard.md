@@ -1,6 +1,6 @@
 # Genomics Variant Explorer Dashboard
 
-This project demonstrates Sami Lane's ability to build interactive dashboards for exploring genomic variant data. The workflow combines data wrangling, statistical summaries, and interactive visualization tailored for translational research teams.
+This project demonstrates ability to build interactive dashboards for exploring genomic variant data. The workflow combines data wrangling, statistical summaries, and interactive visualization tailored for translational research teams.
 
 ## Highlights
 - Cleaned and harmonized variant call format (VCF) files with phenotype metadata.
