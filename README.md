@@ -45,6 +45,6 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 ---
 
 ## Contact me
-- [GitHub](https://github.com/splane00)  
-- [LinkedIn](https://www.linkedin.com/in/samantha-lane-917771155/)
-- Email: slane21@jh.edu
+- Email: slane21@jh.edu  
+- [GitHub](https://github.com/splane00)   
+- [LinkedIn](https://www.linkedin.com/in/samantha-lane-917771155/)  
