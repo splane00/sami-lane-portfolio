@@ -23,9 +23,9 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 - [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3) - Data Structures coursework  
   Java implementation of a Huffman tree for text compression and decompression. The program builds an encoding tree from character frequencies, generates binary codes, and encodes/decodes files while reporting compression results.  
   *Skills:* Java, binary trees, greedy algorithms, file I/O, modular design.
-- [**Quicksort vs. Natural Merge Sort**](https://github.com/splane00/data-struc-4) - Data Structures coursework
+- [**Quicksort vs. Natural Merge Sort**](https://github.com/splane00/data-struc-4) - Data Structures coursework  
   Java project comparing the performance of Quicksort and Natural Merge Sort on different input datasets. The program measures runtime and analyzes efficiency based on input size and order.  
-  *Skills:* Java, sorting algorithms, algorithm analysis, runtime measurement, data structures.
+  *Skills:* Java, sorting algorithms, algorithm analysis, runtime measurement, data structures.  
 - **Dance Studio App** - coming soon!  
   Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
   *Skills:* React, Next.js, Firebase, database design.  
