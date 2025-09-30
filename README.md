@@ -44,7 +44,7 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 
 ## Skills
 - **Languages:** Python, SQL, Java, JavaScript (React, Next.js)  
-- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Biopython  
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
 - **Bioinformatics Tools:** BLAST, Ensembl, UCSC Genome Browser, NCBI, ENCODE  
 - **Other:** Git/GitHub, Firebase, Data Visualization, Cloud Deployment
 
