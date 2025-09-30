@@ -7,21 +7,21 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 ## Projects
 
 ### Bioinformatics
-- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) - in progress  
+- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) - *Intro to Bioinformatics coursework* - in progress!  
   Explored gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
   *Skills:* Genomic databases, sequence analysis, literature integration.
 
 ### Software Development  
-- [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3) - Data Structures coursework  
+- [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3) - *Data Structures coursework*  
   Python implementation of a Huffman tree for text compression and decompression. The program builds an encoding tree from character frequencies, generates binary codes, and encodes/decodes files while reporting compression results.  
   *Skills:* Python, binary trees, greedy algorithms, file I/O, modular design.
-- [**Quicksort vs. Natural Merge Sort**](https://github.com/splane00/data-struc-4) - Data Structures coursework  
+- [**Quicksort vs. Natural Merge Sort**](https://github.com/splane00/data-struc-4) - *Data Structures coursework*  
   Python project comparing the performance of Quicksort and Natural Merge Sort on different input datasets. The program measures runtime and analyzes efficiency based on input size and order.  
   *Skills:* Python, sorting algorithms, algorithm analysis, runtime measurement, data structures.
-- [**Prefix to Postfix Converter**](https://github.com/splane00/data-struc-1) - Data Structures coursework  
+- [**Prefix to Postfix Converter**](https://github.com/splane00/data-struc-1) - *Data Structures coursework*  
   Python program that converts prefix expressions to postfix form using a stack-based approach. Demonstrates parsing, validation, and expression conversion with proper error handling.  
   *Skills:* Python, stacks, expression parsing, algorithm design, modular programming.  
-- [**Stack Implementation**](https://github.com/splane00/data-struc-2) - Data Structures coursework    
+- [**Stack Implementation**](https://github.com/splane00/data-struc-2) - *Data Structures coursework*  
   Python program implementing a stack data structure with operations for push, pop, peek, and error handling. Includes file input/output to test stack functionality with expression evaluation.  
 *Skills:* Python, stacks, data structures, file I/O, modular programming.  
 - **Dance Studio App** - coming soon!  
