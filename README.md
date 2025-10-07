@@ -24,9 +24,6 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
 - [**Stack Implementation**](https://github.com/splane00/data-struc-2) - *Data Structures coursework*  
   Python program implementing a stack data structure with operations for push, pop, peek, and error handling. Includes file input/output to test stack functionality with expression evaluation.  
 *Skills:* Python, stacks, data structures, file I/O, modular programming.  
-- **Dance Studio App** - coming soon!  
-  Full-stack web application to manage classes, schedules, costumes, and ticketing for a dance school.    
-  *Skills:* Python, Javascript (React, Next.js), Firebase, HTML, CSS, database design.  
 
 ### Data Analysis and Visualization  
 - **Exploratory Data Analysis With Python and Pandas** - Coursera Project Network - coming soon!  
