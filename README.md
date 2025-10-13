@@ -12,8 +12,6 @@ Welcome to my portfolio! I am a Master's student in **Bioinformatics at Johns Ho
   *Skills:* Genomic databases, sequence analysis, literature integration.
 
 ### Software Development  
-- [**Biofusion**](https://github.com/splane00/Biofusion) - in progress!  
-  Python-based bioinformatics API designed to integrate and query gene data from multiple genomic databases such as NCBI, Ensembl, and UCSC. Built with FastAPI and modular architecture, it provides endpoints for gene search, sequence retrieval, and annotation fusion. The project emphasizes scalability, caching efficiency, and clean data sourcing, serving as a foundation for advanced genomic query pipelines and future visualization tools.  
 - [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3) - *Data Structures coursework*  
   Python implementation of a Huffman tree for text compression and decompression. The program builds an encoding tree from character frequencies, generates binary codes, and encodes/decodes files while reporting compression results.  
   *Skills:* Python, binary trees, greedy algorithms, file I/O, modular design.
