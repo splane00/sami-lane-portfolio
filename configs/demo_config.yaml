@@ -1,0 +1,35 @@
+rna_seq:
+  path: data/demo/rna_seq.csv
+  id_column: sample_id
+methylation:
+  path: data/demo/methylation.csv
+  id_column: sample_id
+mutation:
+  path: data/demo/mutation.csv
+  id_column: sample_id
+clinical:
+  path: data/demo/clinical.csv
+  id_column: sample_id
+  outcome_column: outcome
+integration:
+  join: inner
+  impute_strategy: mean
+  scale: zscore
+  prefix_modality: true
+feature_selection:
+  top_k: 100
+  variance_threshold: 0.0
+  per_modality: true
+modeling:
+  estimator: logistic_regression
+  target_column: outcome
+  test_size: 0.2
+  cv_folds: 5
+  random_state: 17
+  scoring: roc_auc
+visualization:
+  n_top_features: 30
+  correlation_method: spearman
+  output_formats:
+    - png
+results_dir: results/demo
