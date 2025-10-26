@@ -7,8 +7,8 @@ Welcome to my portfolio! I am a Master's student in Bioinformatics at Johns Hopk
 ## Projects
 
 ### Bioinformatics
-- **BTN1A1 Gene Analysis** - *Bioinformatics Research Project* - in progress!  
-  Exploring gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
+- **BTN1A1 Gene Analysis** - *Bioinformatics Research Project* - in progress!
+  - [Preliminary research](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1%20Preliminary%20Analysis.pdf): Exploring gene structure, SNPs, and protein domains using Ensembl, NCBI, UCSC Genome Browser, and more.
   *Skills:* Genomic databases, sequence analysis, literature integration.
 
 ### Software Development  
