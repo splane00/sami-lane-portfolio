@@ -36,7 +36,7 @@ Welcome to my portfolio! I am a Master's student in Bioinformatics at Johns Hopk
 
 ### Undergraduate Projects
 - **Literature Review:** ["Ethical Implications of Clinician Responses to Patients Presenting with Suicidal Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
-- **Literature Review:** "Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare" - coming soon!
+- **Literature Review:** ["Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare"](https://github.com/splane00/undergrad/blob/main/Feasibility_of_Using_Pharmacogenomics_in_Psychiatric_Healthcare_APA.pdf)
 - **Organic Chemistry Research:** [“Optimization of Alkylation of Ammonia and Amines Reaction to Selectively Form Ammonium Salts”](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)
 - **Organic Chemistry Research:** [“Optimization of Alcohol Reagent in Williamson Ether Synthesis”](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)
 
