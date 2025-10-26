@@ -7,11 +7,8 @@ Welcome to my portfolio! I am a Master's student in Bioinformatics at Johns Hopk
 ## Projects
 
 ### Bioinformatics
-- [**Multi-Omics Biomarker Explorer**](https://github.com/splane00/multiomics_explorer)  
-  A reproducible project template for integrating RNA-seq, DNA methylation, and somatic mutation data from TCGA-LUAD to nominate diagnostic and prognostic biomarkers.  
-  *Skills:* UCSC Xena database, TCGA consortium publications, RNA-seq analysis, Python, Jupyter Notebook  
-- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) - *Intro to Bioinformatics coursework* - in progress!  
-  Explored gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
+- [**BTN1A1 Gene Analysis**](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1-analysis.md) - *Bioinformatics Research Project* - in progress!  
+  Exploring gene structure, SNPs, and protein domains using Ensembl, NCBI, and UCSC Genome Browser.  
   *Skills:* Genomic databases, sequence analysis, literature integration.
 
 ### Software Development  
