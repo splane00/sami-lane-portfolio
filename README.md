@@ -45,7 +45,7 @@ Welcome to my portfolio! I am a Master's student in Bioinformatics at Johns Hopk
 ## Skills
 - **Languages:** Python, SQL, Java, JavaScript (React, Next.js)  
 - **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
-- **Bioinformatics Tools:** BLAST, FASTA, Ensembl, UCSC Genome Browser, NCBI/Entrez, ENCODE, WashU Epigenome Browser  
+- **Bioinformatics Tools:** BLAST, FASTA, Ensembl, UCSC Genome Browser, NCBI/Entrez, ENCODE, GEO, WashU Epigenome Browser  
 - **Other:** Git/GitHub, Firebase, Data Visualization, Cloud Deployment
 
 ---
