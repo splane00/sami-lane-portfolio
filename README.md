@@ -25,12 +25,6 @@ Welcome to my portfolio! I am a Master's student in Bioinformatics at Johns Hopk
   Python program implementing a stack data structure with operations for push, pop, peek, and error handling. Includes file input/output to test stack functionality with expression evaluation.  
 *Skills:* Python, stacks, data structures, file I/O, modular programming.  
 
-### Data Analysis and Visualization  
-- **Exploratory Data Analysis With Python and Pandas** - Coursera Project Network - coming soon!  
-  *Skills:* Python, Pandas, Numpy, Seaborn, Matploptlib, data wrangling, data cleaning, tabular datasets, statistical analysis
-- **Data Cleaning in Excel: Techniques to Clean Messy Data** - Coursera Project Network - coming soon!  
-  *Skills:* Microsoft Excel, Excel formulas, automation techniques, data cleaning  
-
 ### Undergraduate Projects
 - **Literature Review:** ["Ethical Implications of Clinician Responses to Patients Presenting with Suicidal Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
 - **Literature Review:** ["Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare"](https://github.com/splane00/undergrad/blob/main/Feasibility_of_Using_Pharmacogenomics_in_Psychiatric_Healthcare_APA.pdf)
