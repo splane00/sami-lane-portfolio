@@ -4,8 +4,8 @@ Welcome! I’m Samantha Lane, an M.S. Bioinformatics student at Johns Hopkins Un
   
 This portfolio showcases my pipeline development, genomic data analysis, and computational biology projects. Each project reflects professional, reproducible bioinformatics practices and is built using Python, R, and modern sequencing tools.  
 
-[Email](slane21@jh.edu)  
-[LinkedIn](https://www.linkedin.com/in/samantha-lane-917771155/)
+Email: slane21@jh.edu  
+LinkedIn: https://www.linkedin.com/in/samantha-lane-917771155/
 
 ## Featured Projects
 
