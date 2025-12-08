@@ -1,46 +1,100 @@
-# Samantha (Sami) Lane – Portfolio
+# Samantha Lane 
+# Bioinformatics Portfolio
 
-Welcome to my portfolio! I am a Master's student in Bioinformatics at Johns Hopkins University with interests in genomics and computational biology, focused on discoveries in women's health and reproductive technologies. This repository highlights selected projects that showcase my skills in Python, data analysis, bioinformatics pipelines, and software development.  
+Welcome! I’m Samantha (Sami) Lane, an M.S. Bioinformatics student at Johns Hopkins University specializing in transcriptomics, gene regulation, and multi-omics analysis.
+My work focuses on using computational genomics to understand regulatory mechanisms in women’s health, cancer, and reproductive biology.
 
----
+This portfolio showcases my pipeline development, genomic data analysis, and computational biology projects.
+Each project reflects professional, reproducible bioinformatics practices and is built using Python, R, and modern sequencing tools.
 
-## Projects
+🔬 Featured Projects
+🧪 RNA-seq Differential Expression Pipeline (in progress)
 
-### Bioinformatics
-- **BTN1A1 Gene Analysis** - *Bioinformatics Research Project* - in progress!
-  - [Preliminary research](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1%20Preliminary%20Analysis.pdf): Exploring gene structure, SNPs, and protein domains using Ensembl, NCBI, UCSC Genome Browser, and more.
-  *Skills:* Genomic databases, sequence analysis, literature integration.
+A fully reproducible RNA-seq analysis workflow built from scratch.
 
-### Software Development  
-- [**Huffman Encoding Tree Implementation**](https://github.com/splane00/data-struc-3) - *Data Structures coursework*  
-  Python implementation of a Huffman tree for text compression and decompression. The program builds an encoding tree from character frequencies, generates binary codes, and encodes/decodes files while reporting compression results.  
-  *Skills:* Python, binary trees, greedy algorithms, file I/O, modular design.
-- [**Quicksort vs. Natural Merge Sort**](https://github.com/splane00/data-struc-4) - *Data Structures coursework*  
-  Python project comparing the performance of Quicksort and Natural Merge Sort on different input datasets. The program measures runtime and analyzes efficiency based on input size and order.  
-  *Skills:* Python, sorting algorithms, algorithm analysis, runtime measurement, data structures.
-- [**Prefix to Postfix Converter**](https://github.com/splane00/data-struc-1) - *Data Structures coursework*  
-  Python program that converts prefix expressions to postfix form using a stack-based approach. Demonstrates parsing, validation, and expression conversion with proper error handling.  
-  *Skills:* Python, stacks, expression parsing, algorithm design, modular programming.  
-- [**Stack Implementation**](https://github.com/splane00/data-struc-2) - *Data Structures coursework*  
-  Python program implementing a stack data structure with operations for push, pop, peek, and error handling. Includes file input/output to test stack functionality with expression evaluation.  
-*Skills:* Python, stacks, data structures, file I/O, modular programming.  
+Includes:
 
-### Undergraduate Projects
-- **Literature Review:** ["Ethical Implications of Clinician Responses to Patients Presenting with Suicidal Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
-- **Literature Review:** ["Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare"](https://github.com/splane00/undergrad/blob/main/Feasibility_of_Using_Pharmacogenomics_in_Psychiatric_Healthcare_APA.pdf)
-- **Organic Chemistry Research:** [“Optimization of Alkylation of Ammonia and Amines Reaction to Selectively Form Ammonium Salts”](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)
-- **Organic Chemistry Research:** [“Optimization of Alcohol Reagent in Williamson Ether Synthesis”](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)
+FASTQ QC (fastp), trimming, MultiQC
 
----
+Salmon indexing + quantification
 
-## Skills
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Biopython), SQL, Java, JavaScript (React, Next.js)  
-- **Bioinformatics Tools:** BLAST, FASTA, Ensembl, UCSC Genome Browser, NCBI/Entrez, ENCODE, GEO, WashU Epigenome Browser  
-- **Other:** Git/GitHub, Firebase, Data Visualization, Cloud Deployment
+DESeq2 differential expression
 
----
+QC plots, PCA, clustering
 
-## Contact me
-- Email: slane21@jh.edu  
-- [GitHub](https://github.com/splane00)   
-- [LinkedIn](https://www.linkedin.com/in/samantha-lane-917771155/)  
+Modular file structure (src/, results/, env/)
+
+Skills: command-line tools, workflow design, reproducibility, Python + R, Git
+➡️ Repo: rna-seq-pipeline
+
+🧬 BTN1A1 Multi-Omics Regulatory Analysis
+
+My ongoing research project: an integrative analysis of DNA methylation, histone marks, chromatin accessibility, and RNA-seq to investigate epigenetic silencing of BTN1A1 in A549 lung adenocarcinoma cells.
+
+Highlights:
+
+Integrated ENCODE + GEO datasets
+
+Identified candidate repressor regions
+
+Visualized promoter accessibility and epigenetic state
+
+Explored regulatory mechanisms across cell types
+
+Skills: ChIP-seq, DNase-seq, RNA-seq, matplotlib, seaborn, promoter analysis
+➡️ Repo: btn1a1-mini (if this is the correct repo; update link as needed)
+
+💻 Data Structures & Algorithms – Bioinformatics Implementations
+
+A collection of computer science projects demonstrating algorithmic thinking and clean coding practices.
+
+Examples include:
+
+Huffman encoding and decoding
+
+Sorting algorithms (quicksort, natural merge sort)
+
+File I/O utilities, stack/queue implementations
+
+These projects emphasize code clarity, modularity, documentation, and algorithm performance.
+
+➡️ Repo: data-structures (or the exact repo names)
+
+🛠 Technical Skills
+
+Languages: Python, R, SQL, Bash
+Bioinformatics Tools: Salmon, fastp, MultiQC, BLAST, MEME Suite, ORFfinder, InterProScan
+Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Biopython
+R/Bioconductor: DESeq2, ggplot2 (if applicable)
+Software Engineering: Git/GitHub, version control, repo structuring, documentation
+Other: Data visualization, experimental design, writing & communication
+
+📂 Repository Structure (for major projects)
+
+I follow a standardized structure for reproducibility:
+
+project/
+│── data/               # raw or example data
+│── results/            # figures, processed outputs
+│── src/                # analysis scripts and modules
+│── notebooks/          # exploratory or end-to-end analyses
+│── env/                # environment.yml or requirements.txt
+│── README.md
+
+🎯 What I’m Working On Now
+
+Completing an end-to-end RNA-seq pipeline (with full figures + documentation)
+
+Refining multi-omics integration workflows for regulatory genomics
+
+Adding a clean template for future bioinformatics repo structure
+
+Building a visual gallery (QC plots, volcano plots, PCA, genome browser screenshots)
+
+📫 Contact
+
+Email: slane21@jh.edu
+
+LinkedIn: linkedin.com/in/samantha-lane
+
+Portfolio Repo: You are here 😊
