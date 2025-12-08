@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/samantha-lane-917771155/
 
 ## Featured Projects
 
-### RNA-seq Differential Expression Pipeline (in progress)  
+### [RNA-seq Differential Expression Pipeline (in progress)](https://github.com/splane00/rna-seq-pipeline)
 A fully reproducible RNA-seq analysis workflow built from scratch.  
 Includes:  
 - FASTQ QC (fastp), trimming, MultiQC
