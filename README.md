@@ -43,10 +43,10 @@ These projects emphasize code clarity, modularity, documentation, and algorithm 
 Repo: data-structures
 
 ## Technical Skills
-Languages: Python, R, SQL, Bash, Git
-Bioinformatics Tools: Salmon, fastp, MultiQC, BLAST, FASTA, MEME Suite, ORFfinder, InterProScan, ENCODE, NCBI tools, UniProt, UCSC Genome Browser, WashU Epigenome Browser, DepMap Portal, GTeX Portal  
-Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Biopython  
+**Languages:** Python, R, SQL, Bash, Git
+**Bioinformatics Tools:** Salmon, fastp, MultiQC, BLAST, FASTA, MEME Suite, ORFfinder, InterProScan, ENCODE, NCBI tools, UniProt, UCSC Genome Browser, WashU Epigenome Browser, DepMap Portal, GTeX Portal  
+**Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Biopython  
 R/Bioconductor: DESeq2, ggplot2  
-Software Engineering: Git/GitHub, version control, repo structuring, documentation  
-Other: Data visualization, experimental design, writing & communication  
+**Software Engineering:** Git/GitHub, version control, repo structuring, documentation  
+**Other:** Data visualization, experimental design, writing & communication  
 
