@@ -51,3 +51,13 @@ Examples include:
 - File I/O utilities, stack/queue implementations  
 Skills: Python, Git, algorithm design and implementation
 Repo: data-structures
+
+
+### Undergraduate Projects
+**Organic Chemistry II - Special Topics Research Lab**
+- Proposal: ["Optimization of Ammonia and Amine Alkylation Reactions to Selectively Form Ammonium Salts"](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)
+- Report: ["Optimization of Williamson Ether Synthesis to Form Specific Assymmetric Ether"](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)
+
+**Biomedical Humanities Projects**
+- Capstone Literature Review: ["Ethical Implications of Clinical Responses to Patients Presenting with Suicial Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
+- Feasibility Report: ["Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare"](https://github.com/splane00/undergrad/blob/main/Feasibility_of_Using_Pharmacogenomics_in_Psychiatric_Healthcare_APA.pdf)
