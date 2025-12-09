@@ -21,17 +21,19 @@ Includes:
 Skills: R, Git, command-line tools, workflow design, reproducibility, version control  
 Repo: rna-seq-pipeline  
 
-### BTN1A1 Multi-Omics Epigenetic Regulatory Analysis  
-My ongoing research project: an integrative analysis of DNA methylation, histone marks, chromatin accessibility, and RNA-seq to investigate epigenetic silencing of BTN1A1 in A549 lung adenocarcinoma cells.  
+### [BTN1A1 Multi-Omics Characterization](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1.pdf)  
+A comprehensive bioinformatics analysis of BTN1A1 integrating genomics, transcriptomics, protein structure prediction, evolutionary conservation, and regulatory landscape annotation. This project synthesizes public datasets and computational tools to generate a research-grade multi-omics gene profile.
 
 Highlights:
-- Integrated ENCODE + GEO datasets
-- Identified candidate repressor regions
-- Visualized promoter accessibility and epigenetic state
-- Explored regulatory mechanisms across cell types  
+- Annotated BTN1A1 gene structure, isoforms, SNPs, paralogs, and orthologs
+- Predicted promoter architecture, transcription factor motifs, and regulatory elements
+- Modeled protein domains, Ig-like structures, signal peptide, and transmembrane topology
+- Evaluated expression across tissues (GTEx) and in breast cancer (GEO GSE15852)
+- Integrated ENCODE histone marks and DNase-seq to assess regulatory activity
+- Performed multi-species conservation analysis using BLAST, FASTA, and MSAs
 
-Skills: ChIP-seq, DNase-seq, RNA-seq, matplotlib, seaborn, promoter analysis
-Repo: btn1a1-mini  
+Skills: Genomic annotation, promoter analysis, protein structure prediction (InterPro, TMHMM, SignalP, PSIPRED), BLAST/FASTA, GTEx/GEO/ENCODE interpretation, UCSC Genome Browser, multi-alignment tools, scientific writing
+Repo: bioinfo_projects → BTN1A1.pdf
 
 ### Data Structures & Algorithms – Bioinformatics Implementations  
 A collection of computer science projects demonstrating algorithmic thinking and clean coding practices.  
