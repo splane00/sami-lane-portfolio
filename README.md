@@ -1,11 +1,18 @@
 # Samantha Lane - Bioinformatics Portfolio
+**M.S. Bioinformatics, Johns Hopkins University**
 
-Welcome! I’m Samantha (Sami) Lane, an M.S. Bioinformatics student at Johns Hopkins University specializing in transcriptomics, epigenetic regulation, and multi-omics analysis. My work focuses on using computational genomics to understand regulatory mechanisms, especially in women’s health, cancer, and reproductive biology.  
-  
+Bioinformatics graduate student specializing in RNA-seq pipelines, gene regulation, and multi-omics analysis. Experienced with Salmon/DESeq2 workflows, promoter analysis, protein domain prediction, and functional genomics datasets (GTEx, GEO, ENCODE). Passionate about building clean, reproducible analyses and integrating computational and biological insight.
+
 This portfolio showcases my pipeline development, genomic data analysis, and computational biology projects. Each project reflects professional, reproducible bioinformatics practices and is built using Python, R, and modern sequencing tools.  
 
 Email: slane21@jh.edu  
 LinkedIn: https://www.linkedin.com/in/samantha-lane-917771155/
+
+## Skills
+**Languages:** Python, R/Bioconductor, Bash   
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Biopython, DESeq2, ggplot2    
+**Bioinformatics:** fastp, Salmon, DESeq2, BLAST, InterPro, SignalP, TMHMM, PSIPRED, NCBI, Ensembl, UCSC Genome Browser, GTEx, GEO, ENCODE, RNA-seq, ChIP-seq, promoter analysis, protein prediction, multi-omics integration    
+**Dev Tools:** Git, GitHub, Conda, VS Code, Jupyter, shell scripting    
 
 ## Featured Projects
 
@@ -34,6 +41,8 @@ Highlights:
 
 Skills: Genomic annotation, promoter analysis, protein structure prediction (InterPro, TMHMM, SignalP, PSIPRED), BLAST/FASTA, GTEx/GEO/ENCODE interpretation, UCSC Genome Browser, multi-alignment tools, scientific writing
 Repo: bioinfo_projects → BTN1A1.pdf
+
+## Other Projects
 
 ### Data Structures & Algorithms – Bioinformatics Implementations  
 A collection of computer science projects demonstrating algorithmic thinking and clean coding practices.  
