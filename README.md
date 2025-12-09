@@ -9,10 +9,10 @@ Email: slane21@jh.edu
 LinkedIn: https://www.linkedin.com/in/samantha-lane-917771155/
 
 ## Skills
-**Languages:** Python, R/Bioconductor, Bash   
+**Languages:** Python, R/Bioconductor, SQL   
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Biopython, DESeq2, ggplot2    
 **Bioinformatics:** fastp, Salmon, DESeq2, BLAST, InterPro, SignalP, TMHMM, PSIPRED, NCBI, Ensembl, UCSC Genome Browser, GTEx, GEO, ENCODE, RNA-seq, ChIP-seq, promoter analysis, protein prediction, multi-omics integration    
-**Dev Tools:** Git, GitHub, Conda, VS Code, Jupyter, shell scripting    
+**Dev Tools:** Bash, Git, GitHub, Conda, VS Code, Jupyter, shell scripting    
 
 ## Featured Projects
 
@@ -52,12 +52,3 @@ Examples include:
 - File I/O utilities, stack/queue implementations  
 Skills: Python, Git, algorithm design and implementation
 Repo: data-structures
-
-## Technical Skills
-**Languages:** Python, R, SQL, Bash, Git
-**Bioinformatics Tools:** Salmon, fastp, MultiQC, BLAST, FASTA, MEME Suite, ORFfinder, InterProScan, ENCODE, NCBI tools, UniProt, UCSC Genome Browser, WashU Epigenome Browser, DepMap Portal, GTeX Portal  
-**Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Biopython  
-R/Bioconductor: DESeq2, ggplot2  
-**Software Engineering:** Git/GitHub, version control, repo structuring, documentation  
-**Other:** Data visualization, experimental design, writing & communication  
-
