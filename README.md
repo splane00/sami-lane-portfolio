@@ -43,21 +43,22 @@ Repo: bioinfo_projects → BTN1A1.pdf
 
 ## Other Projects
 
-### Data Structures & Algorithms – Bioinformatics Implementations  
-A collection of computer science projects demonstrating algorithmic thinking and clean coding practices.  
-Examples include:
+### Data Structures Projects
+Computer science projects demonstrating algorithmic thinking and clean coding practices.  
 - Huffman encoding and decoding
-- Sorting algorithms (quicksort, natural merge sort)
-- File I/O utilities, stack/queue implementations  
-Skills: Python, Git, algorithm design and implementation
-Repo: data-structures
+- [Sorting algorithms (quicksort, natural merge sort)](https://github.com/splane00/data-struc-4/blob/main/README.md)  
 
+Skills: Python, Git, algorithm design and implementation  
 
 ### Undergraduate Projects
 **Organic Chemistry II - Special Topics Research Lab**
 - Proposal: ["Optimization of Ammonia and Amine Alkylation Reactions to Selectively Form Ammonium Salts"](https://github.com/splane00/undergrad/blob/main/Optimization%20of%20Alkylation%20OCII.pdf)
 - Report: ["Optimization of Williamson Ether Synthesis to Form Specific Assymmetric Ether"](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)
 
+Skills: Scientific research, scientific writing, lab experimentation, ¹H NMR, data analysis
+
 **Biomedical Humanities Projects**
 - Capstone Literature Review: ["Ethical Implications of Clinical Responses to Patients Presenting with Suicial Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
 - Feasibility Report: ["Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare"](https://github.com/splane00/undergrad/blob/main/Feasibility_of_Using_Pharmacogenomics_in_Psychiatric_Healthcare_APA.pdf)
+
+Skills: Literature review, academic writing
