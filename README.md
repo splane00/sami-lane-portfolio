@@ -1,12 +1,11 @@
 # Samantha Lane - Bioinformatics Portfolio
 **M.S. Bioinformatics, Johns Hopkins University**
+**Email:** slane21@jh.edu  
+**LinkedIn:** https://www.linkedin.com/in/samantha-lane-917771155/
 
 Bioinformatics graduate student specializing in RNA-seq pipelines, gene regulation, and multi-omics analysis. Experienced with Salmon/DESeq2 workflows, promoter analysis, protein domain prediction, and functional genomics datasets (GTEx, GEO, ENCODE). Passionate about building clean, reproducible analyses and integrating computational and biological insight.
 
 This portfolio showcases my pipeline development, genomic data analysis, and computational biology projects. Each project reflects professional, reproducible bioinformatics practices and is built using Python, R, and modern sequencing tools.  
-
-Email: slane21@jh.edu  
-LinkedIn: https://www.linkedin.com/in/samantha-lane-917771155/
 
 ## Skills
 **Languages:** Python, R/Bioconductor, SQL   
