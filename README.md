@@ -1,6 +1,6 @@
 # Samantha Lane - Bioinformatics Portfolio
 
-Welcome! I’m Samantha Lane, an M.S. Bioinformatics student at Johns Hopkins University specializing in transcriptomics, epigenetic regulation, and multi-omics analysis. My work focuses on using computational genomics to understand regulatory mechanisms, especially in women’s health, cancer, and reproductive biology.  
+Welcome! I’m Samantha (Sami) Lane, an M.S. Bioinformatics student at Johns Hopkins University specializing in transcriptomics, epigenetic regulation, and multi-omics analysis. My work focuses on using computational genomics to understand regulatory mechanisms, especially in women’s health, cancer, and reproductive biology.  
   
 This portfolio showcases my pipeline development, genomic data analysis, and computational biology projects. Each project reflects professional, reproducible bioinformatics practices and is built using Python, R, and modern sequencing tools.  
 
