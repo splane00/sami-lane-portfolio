@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/samantha-lane-917771155/
 
 ## Featured Projects
 
-### [RNA-seq Differential Expression Pipeline (in progress)](https://github.com/splane00/rna-seq-pipeline)
+### [RNA-seq Differential Expression Pipeline v0.1.0](https://github.com/splane00/rna-seq-pipeline)
 A fully reproducible RNA-seq analysis workflow built from scratch.  
 Includes:  
 - FASTQ QC (fastp), trimming, MultiQC
@@ -18,7 +18,7 @@ Includes:
 - QC plots, PCA, clustering
 - Modular file structure (src/, results/, env/)  
 
-Skills: Python, R, Git, command-line tools, workflow design, reproducibility, version control  
+Skills: R, Git, command-line tools, workflow design, reproducibility, version control  
 Repo: rna-seq-pipeline  
 
 ### BTN1A1 Multi-Omics Epigenetic Regulatory Analysis  
@@ -39,7 +39,7 @@ Examples include:
 - Huffman encoding and decoding
 - Sorting algorithms (quicksort, natural merge sort)
 - File I/O utilities, stack/queue implementations  
-These projects emphasize code clarity, modularity, documentation, and algorithm performance.
+Skills: Python, Git, algorithm design and implementation
 Repo: data-structures
 
 ## Technical Skills
