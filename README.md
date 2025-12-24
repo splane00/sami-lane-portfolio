@@ -18,10 +18,11 @@ This portfolio highlights selected projects demonstrating reproducible workflow 
 ### [Differential Expression Mini-Analysis (Simulated RNA-seq)](https://github.com/splane00/rna-seq-mini)
 This pipeline simulates RNA-seq count data in Python using a negative binomial model, then applies DESeq2 in R for normalization, differential expression analysis, and exploratory visualization (PCA and volcano plots). The project emphasizes reproducibility, statistical modeling, and clean Python–R integration without external data dependencies.  
 
-**Example outputs:**
+**Example outputs:**  
+PCA and Volcano plots generated from simulated RNA-seq data:
 <p align="center">
-  <img src="docs/example_pca.png" width="200">
-  <img src="docs/example_volcano.png" width="200">
+  <img src="example_pca.png" width="320">
+  <img src="example_volcano.png" width="320">
 </p>
   
 **Key features:**
