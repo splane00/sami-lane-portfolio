@@ -8,10 +8,10 @@ Bioinformatics graduate student with a focus on epigenetics and functional genom
 This portfolio highlights selected projects demonstrating reproducible workflow design, statistical analysis, and cross-language integration using Python, R/Bioconductor, and modern bioinformatics tools.
 
 ## Skills
-**Languages:** Python, R (Bioconductor)
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, DESeq2, Biopython
-**Bioinformatics:** RNA-seq and ChIP-seq analysis, differential expression, promoter analysis, protein domain prediction, BLAST, InterPro, SignalP, TMHMM, PSIPRED, GTEx, GEO, ENCODE, UCSC Genome Browser
-**Development & Analysis Tools:** Bash, Git, GitHub, Conda, VS Code, Jupyter, shell scripting
+**Languages:** Python, R (Bioconductor)  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, DESeq2, Biopython  
+**Bioinformatics:** RNA-seq and ChIP-seq analysis, differential expression, promoter analysis, protein domain prediction, BLAST, InterPro, SignalP, TMHMM, PSIPRED, GTEx, GEO, ENCODE, UCSC Genome Browser  
+**Development & Analysis Tools:** Bash, Git, GitHub, Conda, VS Code, Jupyter, shell scripting  
 
 ## Featured Projects
 
