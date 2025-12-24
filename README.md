@@ -19,7 +19,7 @@ This portfolio highlights selected projects demonstrating reproducible workflow 
 This pipeline simulates RNA-seq count data in Python using a negative binomial model, then applies DESeq2 in R for normalization, differential expression analysis, and exploratory visualization (PCA and volcano plots). The project emphasizes reproducibility, statistical modeling, and clean Python–R integration without external data dependencies.  
 
 **Example outputs:**  
-PCA and Volcano plots generated from simulated RNA-seq data:
+PCA and Volcano plots generated from simulated RNA-seq data.
 <p align="center">
   <img src="example_pca.png" width="320">
   <img src="example_volcano.png" width="320">
