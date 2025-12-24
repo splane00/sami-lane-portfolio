@@ -3,29 +3,29 @@
 **Email:** slane21@jh.edu    
 **LinkedIn:** https://www.linkedin.com/in/samantha-lane-917771155/  
 
-Bioinformatics graduate student specialicing in epigenetics and multi-omics data integration, with a special interest in women's health and reproductive technologies. Experienced with Python and R, promoter analysis, protein domain prediction, and functional genomics datasets (GTEx, GEO, ENCODE). Passionate about building clean, reproducible analyses and integrating computational and biological insight.
+Bioinformatics graduate student with a focus on epigenetics and functional genomics, and a strong interest in women’s health and reproductive biology. Experienced in Python- and R-based data analysis, transcriptomics, promoter and regulatory element analysis, and interpretation of public functional genomics datasets (GTEx, GEO, ENCODE). Passionate about building clear, reproducible analyses that integrate computational rigor with biological insight.
 
-This portfolio showcases my pipeline development, genomic data analysis, and computational biology projects. Each project reflects reproducible bioinformatics practices and is built using Python, R, and/or modern sequencing tools.  
+This portfolio highlights selected projects demonstrating reproducible workflow design, statistical analysis, and cross-language integration using Python, R/Bioconductor, and modern bioinformatics tools.
 
 ## Skills
-**Languages:** Python, R/Bioconductor   
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Biopython, DESeq2, ggplot2    
-**Bioinformatics:** fastp, Salmon, DESeq2, BLAST, InterPro, SignalP, TMHMM, PSIPRED, NCBI, Ensembl, UCSC Genome Browser, GTEx, GEO, ENCODE, RNA-seq, ChIP-seq, promoter analysis, protein prediction, multi-omics integration    
-**Dev Tools:** Bash, Git, GitHub, Conda, VS Code, Jupyter, shell scripting    
+**Languages:** Python, R (Bioconductor)
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, DESeq2, Biopython
+**Bioinformatics:** RNA-seq and ChIP-seq analysis, differential expression, promoter analysis, protein domain prediction, BLAST, InterPro, SignalP, TMHMM, PSIPRED, GTEx, GEO, ENCODE, UCSC Genome Browser
+**Development & Analysis Tools:** Bash, Git, GitHub, Conda, VS Code, Jupyter, shell scripting
 
 ## Featured Projects
 
-### [RNA-seq Differential Expression Pipeline v0.1.0](https://github.com/splane00/rna-seq-pipeline)
-A fully reproducible RNA-seq analysis workflow.  
-Includes:  
-- FASTQ QC (fastp), trimming, MultiQC
-- Salmon indexing + quantification
-- DESeq2 differential expression
-- QC plots, PCA, clustering
-- Modular file structure (src/, results/, env/)  
+### [Differential Expression Mini-Analysis (Simulated RNA-seq)](https://github.com/splane00/rna-seq-mini)
+A fully executable, dependency-light RNA-seq differential expression workflow built on simulated count data to demonstrate core transcriptomics concepts without external data dependencies. Designed as a portfolio-ready demonstration emphasizing reproducibility, clean Python→R integration, and statistical reasoning.
 
-Skills: R, Git, command-line tools, workflow design, reproducibility, version control  
-Repo: rna-seq-pipeline  
+**Key features:**
+- Python-based simulation of RNA-seq count data with known differential expression
+- R/DESeq2 normalization, variance stabilization, and differential expression testing
+- PCA and volcano plot visualizations for exploratory analysis
+- One-command execution with automatic dependency setup (macOS/Linux compatible)
+
+**Skills:** Python, R/Bioconductor, DESeq2, data simulation, statistical modeling, PCA, data visualization, reproducible workflows
+**Repo:** rna-seq-mini
 
 ### [BTN1A1 Multi-Omics Characterization](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1.pdf)  
 A comprehensive bioinformatics analysis of BTN1A1 integrating genomics, transcriptomics, protein structure prediction, evolutionary conservation, and regulatory landscape annotation. This project synthesizes public datasets and computational tools to generate a research-grade multi-omics gene profile.
