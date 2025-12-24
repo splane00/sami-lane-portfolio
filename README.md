@@ -3,12 +3,12 @@
 **Email:** slane21@jh.edu    
 **LinkedIn:** https://www.linkedin.com/in/samantha-lane-917771155/  
 
-Bioinformatics graduate student specialicing in epigenetics and multi-omics data integration, with a special interest in women's health and reproductive technologies. Experienced with Salmon/DESeq2 workflows, promoter analysis, protein domain prediction, and functional genomics datasets (GTEx, GEO, ENCODE). Passionate about building clean, reproducible analyses and integrating computational and biological insight.
+Bioinformatics graduate student specialicing in epigenetics and multi-omics data integration, with a special interest in women's health and reproductive technologies. Experienced with Python and R, promoter analysis, protein domain prediction, and functional genomics datasets (GTEx, GEO, ENCODE). Passionate about building clean, reproducible analyses and integrating computational and biological insight.
 
-This portfolio showcases my pipeline development, genomic data analysis, and computational biology projects. Each project reflects professional, reproducible bioinformatics practices and is built using Python, R, and modern sequencing tools.  
+This portfolio showcases my pipeline development, genomic data analysis, and computational biology projects. Each project reflects reproducible bioinformatics practices and is built using Python, R, and/or modern sequencing tools.  
 
 ## Skills
-**Languages:** Python, R/Bioconductor, SQL   
+**Languages:** Python, R/Bioconductor   
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Biopython, DESeq2, ggplot2    
 **Bioinformatics:** fastp, Salmon, DESeq2, BLAST, InterPro, SignalP, TMHMM, PSIPRED, NCBI, Ensembl, UCSC Genome Browser, GTEx, GEO, ENCODE, RNA-seq, ChIP-seq, promoter analysis, protein prediction, multi-omics integration    
 **Dev Tools:** Bash, Git, GitHub, Conda, VS Code, Jupyter, shell scripting    
