@@ -16,8 +16,8 @@ This portfolio highlights selected projects demonstrating reproducible workflow 
 ## Featured Projects
 
 ### [Differential Expression Mini-Analysis (Simulated RNA-seq)](https://github.com/splane00/rna-seq-mini)
-A fully executable, dependency-light RNA-seq differential expression workflow built on simulated count data to demonstrate core transcriptomics concepts without external data dependencies. Designed as a portfolio-ready demonstration emphasizing reproducibility, clean Python→R integration, and statistical reasoning.
-
+This pipeline simulates RNA-seq count data in Python using a negative binomial model, then applies DESeq2 in R for normalization, differential expression analysis, and exploratory visualization (PCA and volcano plots). The project emphasizes reproducibility, statistical modeling, and clean Python–R integration without external data dependencies.  
+  
 **Key features:**
 - Python-based simulation of RNA-seq count data with known differential expression
 - R/DESeq2 normalization, variance stabilization, and differential expression testing
@@ -27,7 +27,7 @@ A fully executable, dependency-light RNA-seq differential expression workflow bu
 **Skills:** Python, R/Bioconductor, DESeq2, Pandas, NumPy, data simulation, statistical modeling, PCA, data visualization, reproducible workflows  
 **Repo:** rna-seq-mini
 
-### [BTN1A1 Multi-Omics Characterization](https://github.com/splane00/bioinfo_projects/blob/main/BTN1A1.pdf)  
+### [BTN1A1 Multi-Omics Characterization](https://github.com/splane00/btn1a1-analysis/blob/main/BTN1A1.pdf)  
 A comprehensive bioinformatics analysis of BTN1A1 integrating genomics, transcriptomics, protein structure prediction, evolutionary conservation, and regulatory landscape annotation. This project synthesizes public datasets and computational tools to generate a research-grade multi-omics gene profile.
 
 **Highlights:**
@@ -39,7 +39,7 @@ A comprehensive bioinformatics analysis of BTN1A1 integrating genomics, transcri
 - Performed multi-species conservation analysis using BLAST, FASTA, and MSAs
 
 **Skills:** Genomic annotation, promoter analysis, protein structure prediction (InterPro, TMHMM, SignalP, PSIPRED), BLAST/FASTA, GTEx/GEO/ENCODE interpretation, UCSC Genome Browser, scientific writing    
-**Repo:** bioinfo_projects/BTN1A1.pdf    
+**Repo:** btn1a1-analysis/BTN1A1.pdf    
 
 ## Other Projects
 
