@@ -3,7 +3,7 @@
 **Email:** slane21@jh.edu    
 **LinkedIn:** https://www.linkedin.com/in/samantha-lane-917771155/  
 
-Bioinformatics graduate student with a strong interest in women’s health and reproductive technology. Experienced in Python- and R-based data analysis, transcriptomics, promoter and regulatory element analysis, and interpretation of public multi-omics data (GTEx, GEO, ENCODE). Passionate about building clear, reproducible analyses that integrate computational rigor with biological insight.
+Bioinformatics graduate student with a strong interest in women’s health and reproductive technology. Experienced in Python- and R-based data analysis, transcriptomics, promoter and regulatory element analysis, and interpretation of public multi-omics data (GTEx, GEO, ENCODE).
 
 This portfolio highlights selected projects demonstrating reproducible workflow design, statistical analysis, and cross-language integration using Python, R/Bioconductor, and modern bioinformatics tools.
 
