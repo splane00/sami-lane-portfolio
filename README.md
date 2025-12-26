@@ -8,11 +8,15 @@ Bioinformatics graduate student with a focus on epigenetics and functional genom
 This portfolio highlights selected projects demonstrating reproducible workflow design, statistical analysis, and cross-language integration using Python, R/Bioconductor, and modern bioinformatics tools.
 
 ## Skills
-**Languages:** Python, R (Bioconductor)  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, ggplot2, DESeq2, Biopython  
-**Bioinformatics:** RNA-seq and ChIP-seq analysis, differential expression, promoter analysis, protein domain prediction, BLAST, InterPro, SignalP, TMHMM, PSIPRED, GTEx, GEO, ENCODE, UCSC Genome Browser  
-**Development & Analysis Tools:** Bash, Git, GitHub, Conda, VS Code, Jupyter, shell scripting  
+**Programming & Analysis**  
+Python (Pandas, NumPy, Matplotlib); R (Bioconductor, DESeq2, tidyverse); Jupyter Notebook  
 
+**Bioinformatics & Genomics**  
+RNA-seq analysis (count-based modeling, normalization, exploratory QC); Differential expression analysis; Transcriptomics and functional genomics; Familiarity with ChIP-seq and proteomics data analysis; Public datasets (GEO, GTEx, ENCODE); Next-generation sequencing (NGS) data analysis; Multi-omics analysis using public bioinformatics tools (NCBI, Ensembl, UCSC Genome Browser; BLAST/FASTA; InterPro, TMHMM, SignalP)
+  
+**Reproducibility & Engineering**  
+Docker; Bash scripting; Git/GitHub; Linux/macOS environments; Reproducible workflows and dependency management
+  
 ## Featured Projects
 
 ### [Differential Expression Mini-Analysis (Simulated RNA-seq)](https://github.com/splane00/rna-seq-mini)
