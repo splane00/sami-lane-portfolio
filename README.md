@@ -52,11 +52,10 @@ A comprehensive bioinformatics analysis of BTN1A1 integrating genomics, transcri
 
 ### Data Structures Projects
 Computer science projects demonstrating algorithmic thinking and clean coding practices.  
-- Huffman encoding and decoding
+- [Huffman encoding](https://github.com/splane00/data-struc-3)
 - [Sorting algorithms (quicksort, natural merge sort)](https://github.com/splane00/data-struc-4/blob/main/README.md)  
 
 **Skills:** Python, Git, algorithm design and implementation  
-**Repo:** data-struc-4
 
 ### Undergraduate Projects
 **Organic Chemistry II - Special Topics Research Lab**
