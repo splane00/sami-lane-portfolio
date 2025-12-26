@@ -74,4 +74,3 @@ Computer science projects demonstrating algorithmic thinking and clean coding pr
 - Feasibility Report: ["Feasibility of Using Pharmacogenomics as Standard Practice in Psychiatric Healthcare"](https://github.com/splane00/undergrad/blob/main/Feasibility_of_Using_Pharmacogenomics_in_Psychiatric_Healthcare_APA.pdf)  
 
 **Skills:** Literature review, academic writing  
-**Repo:** undergrad
