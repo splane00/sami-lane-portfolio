@@ -67,7 +67,6 @@ Computer science projects demonstrating algorithmic thinking and clean coding pr
 - Report: ["Optimization of Williamson Ether Synthesis to Form Specific Assymmetric Ether"](https://github.com/splane00/undergrad/blob/main/Williamson%20Ether%20Synthesis%20OCII.pdf)  
 
 **Skills:** Scientific research, scientific writing, lab experimentation, ¹H NMR, data analysis  
-**Repo:** undergrad
 
 **Biomedical Humanities Projects**
 - Capstone Literature Review: ["Ethical Implications of Clinical Responses to Patients Presenting with Suicial Ideation"](https://github.com/splane00/undergrad/blob/main/BHUM%20Lit%20Review.pdf)
