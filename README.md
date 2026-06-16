@@ -19,6 +19,11 @@ Docker; Bash scripting; Git/GitHub; Linux/macOS environments; Reproducible workf
   
 ## Featured Projects
 
+### [IdeOGM: An open-source Python tool for targeted circular ideogram visualization of structural variants in soft tissue and bone tumors]((https://github.com/splane00/ideOGM)
+<p align="center">
+  <img src="ogm_ideogram" width="4000">
+</p>
+
 ### [Differential Expression Mini-Analysis (Simulated RNA-seq)](https://github.com/splane00/rna-seq-mini)
 This pipeline simulates RNA-seq count data in Python using a negative binomial model, then applies DESeq2 in R for normalization, differential expression analysis, and exploratory visualization (PCA and volcano plots). The project emphasizes reproducibility, statistical modeling, and clean Python–R integration without external data dependencies.  
 
