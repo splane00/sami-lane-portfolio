@@ -3,26 +3,17 @@
 **Email:** slane21@jh.edu    
 **LinkedIn:** https://www.linkedin.com/in/samantha-lane-917771155/  
 
-Bioinformatics graduate student with a strong interest in women’s health and reproductive technology. Experienced in Python- and R-based data analysis, transcriptomics, promoter and regulatory element analysis, and interpretation of public multi-omics data (GTEx, GEO, ENCODE).
-
-This portfolio highlights selected projects demonstrating reproducible workflow design, statistical analysis, and cross-language integration using Python, R/Bioconductor, and modern bioinformatics tools.
-
-## Skills
-**Programming & Analysis**  
-Python (Pandas, NumPy, Matplotlib); R (Bioconductor, DESeq2, tidyverse); Jupyter Notebook  
-
-**Bioinformatics & Genomics**  
-RNA-seq analysis (count-based modeling, normalization, exploratory QC); Differential expression analysis; Transcriptomics and functional genomics; Familiarity with ChIP-seq and proteomics data analysis; Public datasets (GEO, GTEx, ENCODE); Next-generation sequencing (NGS) data analysis; Multi-omics analysis using public bioinformatics tools (NCBI, Ensembl, UCSC Genome Browser; BLAST/FASTA; InterPro, TMHMM, SignalP)
-  
-**Reproducibility & Engineering**  
-Docker; Bash scripting; Git/GitHub; Linux/macOS environments; Reproducible workflows and dependency management
+Bioinformatics graduate student with a strong interest in oncology, women’s health, and reproductive technology. Experienced in Python- and R-based data analysis, multi-omics, and visualization.  
   
 ## Featured Projects
 
-### [IdeOGM: An open-source Python tool for targeted circular ideogram visualization of structural variants in soft tissue and bone tumors]((https://github.com/splane00/ideOGM)
+### [IdeOGM: An open-source Python tool for targeted circular ideogram visualization of structural variants in soft tissue and bone tumors](https://github.com/splane00/ideOGM)  
+IdeOGM is an open-source Python visualization suite designed for the rapid and customizable generation of high-resolution circular ideograms directly from Bionano Optical Genome Mapping (OGM) SMAP tabular data exports.  
 <p align="center">
-  <img src="ogm_ideogram" width="4000">
+  <img src="ogm_ideogram.png" width="400">
 </p>
+**Skills:** Python (incl. Matplotlib, NumPy, Pandas, tkinker), genomic data, oncology data, data visualization    
+**Repo:** IdeOGM  
 
 ### [Differential Expression Mini-Analysis (Simulated RNA-seq)](https://github.com/splane00/rna-seq-mini)
 This pipeline simulates RNA-seq count data in Python using a negative binomial model, then applies DESeq2 in R for normalization, differential expression analysis, and exploratory visualization (PCA and volcano plots). The project emphasizes reproducibility, statistical modeling, and clean Python–R integration without external data dependencies.  
