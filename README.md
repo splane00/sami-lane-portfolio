@@ -12,6 +12,7 @@ IdeOGM is an open-source Python visualization suite designed for the rapid and c
 <p align="center">
   <img src="ogm_ideogram.png" width="400">
 </p>
+
 **Skills:** Python (incl. Matplotlib, NumPy, Pandas, tkinker), genomic data, oncology data, data visualization    
 **Repo:** IdeOGM  
 
