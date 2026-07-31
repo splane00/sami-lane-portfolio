@@ -1,0 +1,179 @@
+/* ── Reset & base ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --accent:   #5b6af0;
+  --accent2:  #8b5cf6;
+  --bg:       #f8f9fc;
+  --surface:  #ffffff;
+  --border:   #e2e6f0;
+  --text:     #1a1d2e;
+  --muted:    #6b7280;
+  --radius:   12px;
+  --shadow:   0 2px 16px rgba(91,106,240,.08);
+  --max-w:    860px;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── Layout ───────────────────────────────────────────────── */
+.container { max-width: var(--max-w); margin: 0 auto; padding: 0 1.5rem; }
+
+/* ── Header / Hero ────────────────────────────────────────── */
+header {
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent2) 100%);
+  color: #fff;
+  padding: 4rem 1.5rem 3rem;
+  text-align: center;
+}
+
+header h1 {
+  font-size: clamp(1.8rem, 5vw, 2.8rem);
+  font-weight: 700;
+  letter-spacing: -.5px;
+  margin-bottom: .4rem;
+}
+
+header .subtitle {
+  font-size: 1.05rem;
+  opacity: .9;
+  margin-bottom: 1.5rem;
+}
+
+header .bio {
+  max-width: 640px;
+  margin: 0 auto 1.8rem;
+  opacity: .92;
+  font-size: .97rem;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: .75rem;
+}
+
+.contact-links a {
+  color: #fff;
+  border: 1.5px solid rgba(255,255,255,.6);
+  border-radius: 999px;
+  padding: .35rem 1rem;
+  font-size: .875rem;
+  transition: background .2s;
+}
+.contact-links a:hover { background: rgba(255,255,255,.18); text-decoration: none; }
+
+/* ── Section headings ─────────────────────────────────────── */
+main { padding: 3rem 0 4rem; }
+
+.section-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0 0 1.5rem;
+  padding-bottom: .5rem;
+  border-bottom: 3px solid var(--accent);
+  display: inline-block;
+}
+
+section { margin-bottom: 3.5rem; }
+
+/* ── Project cards ────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.6rem 1.8rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow);
+  transition: transform .18s, box-shadow .18s;
+}
+.card:hover { transform: translateY(-3px); box-shadow: 0 6px 28px rgba(91,106,240,.13); }
+
+.card h3 { font-size: 1.1rem; font-weight: 700; margin-bottom: .55rem; }
+.card h3 a { color: var(--text); }
+.card h3 a:hover { color: var(--accent); text-decoration: none; }
+
+.card p { color: var(--muted); font-size: .95rem; margin-bottom: .75rem; }
+
+.card ul {
+  color: var(--muted);
+  font-size: .9rem;
+  padding-left: 1.3rem;
+  margin-bottom: .75rem;
+}
+.card ul li { margin-bottom: .25rem; }
+
+.skills-label { font-weight: 600; color: var(--text); font-size: .9rem; margin-right: .4rem; }
+
+.tag-list { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .6rem; }
+.tag {
+  background: #eef0ff;
+  color: var(--accent);
+  border-radius: 999px;
+  padding: .15rem .7rem;
+  font-size: .8rem;
+  font-weight: 500;
+}
+
+/* ── Image gallery ────────────────────────────────────────── */
+.img-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.img-row img {
+  border-radius: 8px;
+  max-width: 300px;
+  width: 100%;
+  border: 1px solid var(--border);
+}
+.img-center { text-align: center; margin: 1rem 0; }
+.img-center img { border-radius: 8px; max-width: 380px; width: 100%; border: 1px solid var(--border); }
+
+/* ── Other projects grid ──────────────────────────────────── */
+.mini-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+.mini-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.2rem 1.4rem;
+  box-shadow: var(--shadow);
+}
+.mini-card h4 { font-size: 1rem; font-weight: 700; margin-bottom: .5rem; }
+.mini-card ul { padding-left: 1.2rem; color: var(--muted); font-size: .9rem; }
+.mini-card ul li { margin-bottom: .2rem; }
+
+/* ── Footer ───────────────────────────────────────────────── */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: var(--muted);
+  font-size: .85rem;
+  border-top: 1px solid var(--border);
+}
+
+/* ── Responsive ───────────────────────────────────────────── */
+@media (max-width: 600px) {
+  header { padding: 2.5rem 1rem 2rem; }
+  .card  { padding: 1.2rem 1.2rem; }
+  .img-row img { max-width: 100%; }
+}
