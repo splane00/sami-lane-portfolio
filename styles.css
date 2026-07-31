@@ -32,7 +32,7 @@ a:hover { text-decoration: underline; }
 
 /* ── Header / Hero ────────────────────────────────────────── */
 header {
-  background: linear-gradient(135deg, var(--accent) 0%, var(--accent2) 100%);
+  background: linear-gradient(135deg, #228b22 0%, #145214 100%);
   color: #fff;
   padding: 4rem 1.5rem 3rem;
   text-align: center;
@@ -91,12 +91,21 @@ main { padding: 3rem 0 4rem; }
 section { margin-bottom: 3.5rem; }
 
 /* ── Project cards ────────────────────────────────────────── */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+@media (max-width: 700px) {
+  .cards-grid { grid-template-columns: 1fr; }
+}
+
 .card {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1.6rem 1.8rem;
-  margin-bottom: 1.5rem;
   box-shadow: var(--shadow);
   transition: transform .18s, box-shadow .18s;
 }
