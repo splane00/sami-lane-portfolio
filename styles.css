@@ -33,7 +33,7 @@ a:hover { text-decoration: underline; }
 /* ── Header / Hero ────────────────────────────────────────── */
 header {
   background: linear-gradient(135deg, #95d9ff 0%, #5fbaf5 100%);
-  color: #fff;
+  color: #000;
   padding: 4rem 1.5rem 3rem;
   text-align: center;
 }
@@ -80,16 +80,6 @@ header .bio {
   font-size: .97rem;
 }
 
-.linkedin-profile {
-  font-size: .9rem;
-  opacity: .95;
-}
-
-.linkedin-profile a {
-  color: #fff;
-  text-decoration: underline;
-}
-
 .contact-links {
   display: flex;
   justify-content: center;
@@ -98,14 +88,14 @@ header .bio {
 }
 
 .contact-links a {
-  color: #fff;
-  border: 1.5px solid rgba(255,255,255,.6);
+  color: #000;
+  border: 1.5px solid rgba(0,0,0,.4);
   border-radius: 999px;
   padding: .35rem 1rem;
   font-size: .875rem;
   transition: background .2s;
 }
-.contact-links a:hover { background: rgba(255,255,255,.18); text-decoration: none; }
+.contact-links a:hover { background: rgba(0,0,0,.08); text-decoration: none; }
 
 /* ── Section headings ─────────────────────────────────────── */
 main { padding: 3rem 0 4rem; }
