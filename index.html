@@ -47,8 +47,15 @@
 <main>
   <div class="container">
 
+    <!-- Tab Navigation -->
+    <nav class="tab-nav" role="tablist">
+      <button class="tab-btn active" role="tab" aria-selected="true" aria-controls="featured" data-tab="featured">Featured Projects</button>
+      <button class="tab-btn" role="tab" aria-selected="false" aria-controls="other" data-tab="other">Other Projects</button>
+      <button class="tab-btn" role="tab" aria-selected="false" aria-controls="resume" data-tab="resume">Resume</button>
+    </nav>
+
     <!-- Featured Projects -->
-    <section id="featured">
+    <section id="featured" role="tabpanel">
       <h2 class="section-title">Featured Projects</h2>
 
       <div class="cards-grid">
@@ -135,7 +142,7 @@
       </div>
       </div><!-- /.cards-grid -->
     </section>
-    <section id="other">
+    <section id="other" role="tabpanel" hidden>
       <h2 class="section-title">Other Projects</h2>
 
       <div class="mini-grid">
@@ -219,6 +226,23 @@
       </div>
     </section>
 
+    <!-- Resume -->
+    <section id="resume" role="tabpanel" hidden>
+      <h2 class="section-title">Resume</h2>
+      <div class="resume-embed-wrap">
+        <iframe
+          class="resume-embed"
+          src="https://docs.google.com/document/d/e/2PACX-1vRs_9iE3nGY_VZh7XOacOpV-KcMWSmivzL87wjCtGI4zEKP-kJq5IHFGdu8cZ8KuSlXuyginZl_HFpo/pub?embedded=true"
+          title="Samantha Lane – Resume"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <p class="resume-link-hint">
+        <a href="https://docs.google.com/document/d/e/2PACX-1vRs_9iE3nGY_VZh7XOacOpV-KcMWSmivzL87wjCtGI4zEKP-kJq5IHFGdu8cZ8KuSlXuyginZl_HFpo/pub" target="_blank" rel="noopener">Open resume in a new tab ↗</a>
+      </p>
+    </section>
+
   </div>
 </main>
 
@@ -227,5 +251,22 @@
   <p>© 2025 Samantha Lane · Built with GitHub Pages</p>
 </footer>
 
+<script>
+  const tabBtns = document.querySelectorAll('.tab-btn');
+  const tabPanels = document.querySelectorAll('section[role="tabpanel"]');
+
+  tabBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const target = btn.dataset.tab;
+
+      tabBtns.forEach(b => { b.classList.remove('active'); b.setAttribute('aria-selected', 'false'); });
+      tabPanels.forEach(p => { p.hidden = true; });
+
+      btn.classList.add('active');
+      btn.setAttribute('aria-selected', 'true');
+      document.getElementById(target).hidden = false;
+    });
+  });
+</script>
 </body>
 </html>
