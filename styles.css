@@ -32,7 +32,7 @@ a:hover { text-decoration: underline; }
 
 /* ── Header / Hero ────────────────────────────────────────── */
 header {
-  background: linear-gradient(135deg, #228b22 0%, #145214 100%);
+  background: linear-gradient(135deg, #95d9ff 0%, #5fbaf5 100%);
   color: #fff;
   padding: 4rem 1.5rem 3rem;
   text-align: center;
@@ -51,11 +51,43 @@ header .subtitle {
   margin-bottom: 1.5rem;
 }
 
-header .bio {
-  max-width: 640px;
+.profile-header {
+  max-width: 760px;
   margin: 0 auto 1.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  text-align: left;
+}
+
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(255,255,255,.75);
+  box-shadow: 0 8px 24px rgba(0,0,0,.18);
+}
+
+.profile-copy {
+  max-width: 560px;
+}
+
+header .bio {
+  margin: 0 0 .6rem;
   opacity: .92;
   font-size: .97rem;
+}
+
+.linkedin-profile {
+  font-size: .9rem;
+  opacity: .95;
+}
+
+.linkedin-profile a {
+  color: #fff;
+  text-decoration: underline;
 }
 
 .contact-links {
@@ -183,6 +215,8 @@ footer {
 /* ── Responsive ───────────────────────────────────────────── */
 @media (max-width: 600px) {
   header { padding: 2.5rem 1rem 2rem; }
+  .profile-header { flex-direction: column; text-align: center; }
+  .profile-photo { width: 120px; height: 120px; }
   .card  { padding: 1.2rem 1.2rem; }
   .img-row img { max-width: 100%; }
 }
